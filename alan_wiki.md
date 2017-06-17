@@ -50,9 +50,18 @@ Interesting...
 
 This is my current To Do List 
 
- * [ ] Not yet done
- * [-] In progress
- * [+] Already done
+* [ ] Not yet done
+* [-] In progress
+* [+] Already done
 
-
+## LaTeX
 $$e=mc$$
+
+<embed http://mathurl.com/5euwuy />
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
