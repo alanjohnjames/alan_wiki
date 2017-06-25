@@ -1,10 +1,20 @@
 # Financial Maths
 
+## Black-Scholes
+
+* The Collector: Know Your Weapon, Parts 1 & 2
+(Espen Gaarder Haug) http://www.hk.free.fr/Docs/Paul%20Wilmott%20-%20The%20Best%20of%20Wilmott%20Vol%202.pdf
+
 ## Volatility Models
 
-### Smile...
+### Smile... Skew...
 
 * Volatility Smile https://en.m.wikipedia.org/wiki/Volatility_smile 
+* Implied Volatility Surface (Liuren Wu) http://faculty.baruch.cuny.edu/lwu/9797/lec8.pdf
+* Construction Of the Implied Volatility Smile (Alexey Weizmann) https://www.eurexchange.com/blob/116026/fc1ad5913f34495f762a9702b85d077e/data/construction_of_the_implied_volatility_smile.pdf
+
+* The Dynamic of the Volatility Skew: a Kalman Filter Approach (Mascia Bedendo and Stewart Hodges) https://www.fdic.gov/bank/analytical/cfr/2005/apr/mbedendo_shodges.pdf
+* A New Simple Approach for Constructing Implied Volatility Surfaces (Peter Carr, Liuren Wu) http://ieor.columbia.edu/files/seasdepts/industrial-engineering-operations-research/pdf-files/Carr_P_02_28_11.pdf
 
 ### Risk Reversal... Butterfly...
 
