@@ -40,3 +40,17 @@
 * A Guide to FX Options Quoting Conventions (Dimitri Reiswich, Uwe Wystup)  https://www.researchgate.net/publication/275905055_A_Guide_to_FX_Options_Quoting_Conventions
 
 * Consistent Pricing of FX Options (Antonio Castagna, Fabio Mercurio) http://www.fabiomercurio.it/consistentfxsmile.pdf
+
+
+## CVA Proxy Credit Curve
+
+* [cva proxy credit curve - Google Search](https://www.google.co.uk/search?q=proxy+credit+curve&rlz=1C5CHFA_enGB734GB735&oq=proxy+credit+curve&aqs=chrome..69i57.7788j0j7&sourceid=chrome&ie=UTF-8#q=cva+proxy+credit+curve+)
+
+* [EBA-CP-2016-04+(Consultation+Paper+amending+RTS+on+CVA+proxy+spread).pdf](https://www.eba.europa.eu/documents/10180/1426637/EBA-CP-2016-04+(Consultation+Paper+amending+RTS+on+CVA+proxy+spread).pdf)
+* [EBA publishes draft amending technical standards on CVA proxy spread - View press release - European Banking Authority](http://www.eba.europa.eu/-/eba-publishes-draft-amending-technical-standards-on-cva-proxy-spread)
+* [next-generation-credit-curves.pdf](file:///Users/alan/Downloads/next-generation-credit-curves.pdf)
+* [Microsoft Word - cva-cross-section.docx](http://www.nomura.com/resources/europe/pdfs/cva-cross-section.pdf)
+* [BMW_Credit_Term_Structures_Part_3_v2](https://arxiv.org/pdf/0912.4618.pdf)
+* [The XVA Challenge: Counterparty Credit Risk, Funding, Collateral, and Capital - Jon Gregory - Google Books](https://books.google.co.uk/books?id=cQOPCQAAQBAJ&pg=PA280&lpg=PA280&dq=proxy+credit+curve&source=bl&ots=tiui-clTod&sig=CcFYF858HZ8zL9sUgEjpSfsa6Vk&hl=en&sa=X&ved=0ahUKEwjgz76e1_DUAhWlO5oKHWD6BsgQ6AEIZDAJ#v=onepage&q=proxy%20credit%20curve&f=false)
+* [Markit File](https://www.markit.com/Product/File?CMSID=368ae091505d401a80660456ba504930)
+
