@@ -47,14 +47,3 @@
 * Deep Learning Illustrated https://www.deeplearningillustrated.com
 
 
-# C++
-
-* C++ Seasoning https://www.youtube.com/watch?v=qH6sSOr-yk8
-
-A look at many of the new features in C++ and a couple of old features you may not have known about. With the goal of correctness in mind, we'll see how to utilize these features to create simple, clear, and beautiful code.
-
-* Cling https://root.cern.ch/cling
-* Cling on GitHub https://github.com/QuantStack/xeus-cling
-
-Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libraries.
-
