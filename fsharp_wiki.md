@@ -19,3 +19,12 @@ General stuff...
 
 Interesting...
 * Functions as Interfaces <https://fsharpforfunandprofit.com/posts/convenience-functions-as-interfaces/>
+
+
+### The Power of Composition
+
+* Web Page https://fsharpforfunandprofit.com/composition/
+
+* Slides https://www.slideshare.net/ScottWlaschin/the-power-of-composition?ref=https://fsharpforfunandprofit.com/composition/
+
+* Video https://vimeo.com/254635723
