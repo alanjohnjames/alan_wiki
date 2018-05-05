@@ -70,6 +70,26 @@ See page **Functions as Interfaces** https://fsharpforfunandprofit.com/posts/con
 See the AST parsing example towards the end...
 <iframe width="560" height="315" scrolling="no" src="https://av.tib.eu/player/19950" frameborder="0" allowfullscreen></iframe>
 
+
+<html>
+<body>
+
+<iframe
+	width="560"
+    height="320"
+    src="https://www.w3schools.com">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+<!--iframe width="560" height="320"  src="http://www.drdobbs.com/cpp/how-non-member-functions-improve-encapsu/184401197">
+ <p>Your browser does not support iframes.</p>
+</iframe-->
+
+</body>
+</html>
+
+
+
 * Python *hask* library
 
 ## YouTube
