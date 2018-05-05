@@ -70,10 +70,31 @@ See the AST parsing example towards the end...
 
 ## YouTube
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+The format for embedding YouTube videos in web pages is 
+```html
+    <iframe width="420" height="315"
+    src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    </iframe>
+```
 
+It's not possible to embed videos (in GitHub markdown) directly, but you can put an image which links to a youtube video:
+
+```
+    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]
+    (https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+```
+
+The result looks like this;
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tgbNymZ7vqY/0.jpg)](https://www.youtube.com/watch?v=tgbNymZ7vqY)
+
+
+For more information look [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos).
+If you want to keep it simple, just make it a link using the following syntax:
+
+```
+    [linkname](https://youtubevideourl)
+```
 
 ## RightMove
 
