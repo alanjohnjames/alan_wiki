@@ -55,42 +55,19 @@ HTML tables seem to work fine.
 
 http://www.drdobbs.com/cpp/how-non-member-functions-improve-encapsu/184401197
 
-<iframe width="560" height="315" scrolling="no" src="http://www.drdobbs.com/cpp/how-non-member-functions-improve-encapsu/184401197" frameborder="0" allowfullscreen></iframe>
+### Functional Programming...
 
-* Functional Programming...
-* Algebraic Data Types...
-* Avoidance of Design Patterns...
+### Algebraic Data Types...
 
-* **Fsharp For Fun and Profit** (Scott Wlaschin)
+### Avoidance of Design Patterns...
 
-See page **Functions as Interfaces** https://fsharpforfunandprofit.com/posts/convenience-functions-as-interfaces/
+### Fsharp For Fun and Profit (Scott Wlaschin)
 
-* **What Python Can Learn from Haskell** (TIB AV-Portal, https://av.tib.eu/media/19950) 
+* **Functions as Interfaces** https://fsharpforfunandprofit.com/posts/convenience-functions-as-interfaces/
 
-See the AST parsing example towards the end...
-<iframe width="560" height="315" scrolling="no" src="https://av.tib.eu/player/19950" frameborder="0" allowfullscreen></iframe>
+* **What Python Can Learn from Haskell** (TIB AV-Portal) https://av.tib.eu/media/19950 
 
-
-<html>
-<body>
-
-<iframe
-	width="560"
-    height="320"
-    src="https://www.w3schools.com">
-  <p>Your browser does not support iframes.</p>
-</iframe>
-
-<!--iframe width="560" height="320"  src="http://www.drdobbs.com/cpp/how-non-member-functions-improve-encapsu/184401197">
- <p>Your browser does not support iframes.</p>
-</iframe-->
-
-</body>
-</html>
-
-
-
-* Python *hask* library
+> See the AST parsing example towards the end...
 
 ## YouTube
 
