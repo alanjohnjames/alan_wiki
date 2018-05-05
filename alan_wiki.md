@@ -44,6 +44,10 @@ HTML tables seem to work fine.
     </tr>
 </table>
 
+## Data Science
+
+* datavizforall.org https://www.datavizforall.org/embed/iframe-github/
+
 
 ## Computer Science
 
@@ -68,7 +72,7 @@ See the AST parsing example towards the end...
 
 * Python *hask* library
 
-## YouTube
+## YouTube
 
 The format for embedding YouTube videos in web pages is 
 ```html
@@ -96,7 +100,8 @@ If you want to keep it simple, just make it a link using the following syntax:
     [linkname](https://youtubevideourl)
 ```
 
-## RightMove
+## RightMove
+
 
 * gheydon/right_move_web_scraper https://github.com/gheydon/right_move_web_scraper
 
