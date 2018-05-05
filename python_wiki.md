@@ -4,6 +4,9 @@
 
 * **DataQuest** Introduction to Functional Programming  https://www.dataquest.io/blog/introduction-functional-programming-python/
 
+* Python **hask** library
+
+
 # Pattern Matching
 
 * **Pattern | Matched** Some things with mypy: sum and product types http://averagehat.github.io/posts/types.html
