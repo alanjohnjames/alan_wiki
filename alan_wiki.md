@@ -58,7 +58,7 @@ http://www.drdobbs.com/cpp/how-non-member-functions-improve-encapsu/184401197
 * Algebraic Data Types...
 * Avoidance of Design Patterns...
 
-* *Fsharp For Fun and Profit* (Scott Wlaschin)
+* **Fsharp For Fun and Profit** (Scott Wlaschin)
 
 See page *Functions as Interfaces* https://fsharpforfunandprofit.com/posts/convenience-functions-as-interfaces/
 
@@ -69,5 +69,13 @@ See the AST parsing example towards the end...
 
 * Python *hask* library
 
+## RightMove
 
+* gheydon/right_move_web_scraper https://github.com/gheydon/right_move_web_scraper
+
+* woblers/rightmove_webscraper.py https://github.com/woblers/rightmove_webscraper.py
+
+* ISNIT0/rightmove-scraper https://github.com/ISNIT0/rightmove-scraper
+
+* chrift/RightMove-Scraper https://github.com/chrift/RightMove-Scraper
 
