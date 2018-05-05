@@ -1,16 +1,16 @@
 # Functional Programming
 
-* Awesome Functional Python https://github.com/sfermigier/awesome-functional-python
+* **Awesome Functional Python** https://github.com/sfermigier/awesome-functional-python
 
-* DataQuest Introduction to Functional Programming  https://www.dataquest.io/blog/introduction-functional-programming-python/
+* **DataQuest** Introduction to Functional Programming  https://www.dataquest.io/blog/introduction-functional-programming-python/
 
 # Pattern Matching
 
-* Pattern | Matched : Some things with mypy: sum and product types http://averagehat.github.io/posts/types.html
+* **Pattern | Matched** Some things with mypy: sum and product types http://averagehat.github.io/posts/types.html
 
-* Python Pattern Matching with AST Inspection http://hackflow.com/blog/2015/03/29/metaprogramming-beyond-decency/
+* **HackFlow** Python Pattern Matching with AST Inspection http://hackflow.com/blog/2015/03/29/metaprogramming-beyond-decency/
 
-* adt.py https://github.com/ericgj/adt.py
+* **adt.py** https://github.com/ericgj/adt.py
 
 
 # Monads
@@ -23,6 +23,18 @@
 
 * dustingetz/monadic-interpreter https://github.com/dustingetz/monadic-interpreter
 
+* **Three Useful Monads** Reader, Writer, State https://github.com/dbrattli/OSlash/wiki/Three-Useful-Monads
+
+* Monads, part 1: a design pattern https://www.stephanboyer.com/post/9/monads-part-1-a-design-pattern
+
+* Monads, part 2: impure computations https://www.stephanboyer.com/post/10/monads-part-2-impure-computations
+
+* Monads in 15 minutes http://nikgrozev.com/2013/12/10/monads-in-15-minutes/
+
+* **Valued Lesson** Monads in Python (with nice syntax!) http://www.valuedlessons.com/2008/01/monads-in-python-with-nice-syntax.html
+
+* The State Monad in Python terms https://gaiustech.wordpress.com/2010/09/06/on-monads/
+
 
 # Visual Studio Code
 
@@ -31,7 +43,7 @@
 
 # Documentation
 
-* MkDocs and MathJax https://stackoverflow.com/questions/27882261/mkdocs-and-mathjax
+* **MkDocs** and MathJax https://stackoverflow.com/questions/27882261/mkdocs-and-mathjax
 
 
 # Statistical Modelling
@@ -41,7 +53,7 @@
 
 # Machine Learning
 
-* Tensor Flow Live Lessons https://github.com/the-deep-learners/TensorFlow-LiveLessons
+* **Tensor Flow** Live Lessons https://github.com/the-deep-learners/TensorFlow-LiveLessons
 
 * Jon Krohn website https://www.jonkrohn.com
 
