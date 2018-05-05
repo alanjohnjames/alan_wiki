@@ -2,12 +2,15 @@
 
 * Awesome Functional Python https://github.com/sfermigier/awesome-functional-python
 
+* DataQuest Introduction to Functional Programming  https://www.dataquest.io/blog/introduction-functional-programming-python/
 
 # Pattern Matching
 
 * Pattern | Matched : Some things with mypy: sum and product types http://averagehat.github.io/posts/types.html
 
 * Python Pattern Matching with AST Inspection http://hackflow.com/blog/2015/03/29/metaprogramming-beyond-decency/
+
+* adt.py https://github.com/ericgj/adt.py
 
 
 # Monads
