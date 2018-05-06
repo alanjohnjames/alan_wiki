@@ -40,8 +40,8 @@ This is my current To Do List
 Embedded math does not seem to work on GitHub. 
 $e=mc^2$
 
-But you can embed math from other URLs 
-<embed http://mathurl.com/5euwuy />
+Supposedly you can embed math from other URLs 
+<embed http://mathurl.com/5euwuy /> - but it does not seem to work.
 
 HTML tables seem to work fine.
 
@@ -68,7 +68,33 @@ outputs...
 
 ## Statistical Learning
 
-### Stanford OnLine
+### Stanford On-Line Course
+
+* Statistical Learning
+
+  https://online.stanford.edu/course/statistical-learning-self-paced
+
+* On-Line Course
+
+  https://lagunita.stanford.edu/login?next=/courses/HumanitiesandScience/StatLearning/Winter2015/progress
+
+* An Introduction to Statistical Learning 
+
+  Book Home Page http://www-bcf.usc.edu/~gareth/ISL/
+  
+  PDF Book http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf
+
+  Unofficial Solutions http://blog.princehonest.com/stat-learning/
+
+* Videos
+
+  https://www.youtube.com/playlist?list=PL5-da3qGB5ICcUhueCyu25slvsGp8IDTa
+
+
+* Elements of Statistical Leanring 
+
+  PDF Book https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+
 
 
 ## Machine Learning
