@@ -91,17 +91,16 @@ outputs...
   https://www.youtube.com/playlist?list=PL5-da3qGB5ICcUhueCyu25slvsGp8IDTa
 
 
-* Elements of Statistical Leanring 
+* Elements of Statistical Learning 
 
   PDF Book https://web.stanford.edu/~hastie/Papers/ESLII.pdf
-
 
 
 ## Machine Learning
 
 * In-depth introduction to machine learning in 15 hours of expert videos
 
-  R-Bloggers
+  R-bloggers
   
   https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
