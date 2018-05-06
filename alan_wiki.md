@@ -66,36 +66,70 @@ outputs...
 * datavizforall.org https://www.datavizforall.org/embed/iframe-github/
 
 
+## Statistical Learning
+
+### Stanford OnLine
+
+
+## Machine Learning
+
+
 ## Computer Science
 
 ### (Avoidance of) Object-Oriented Programming...
 
-* *Non-member Functions Increase Encapsulation* (Scott Meyers, Dr Dobbs Article)
+* Non-member Functions Increase Encapsulation (Scott Meyers, Dr Dobbs Article)
 
    http://www.drdobbs.com/cpp/how-non-member-functions-improve-encapsu/184401197
 
+* Goodbye, Object Oriented Programming
+
+    https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
+
 ### (Avoidance of) Design Patterns...
+
+[![Image alt_text goes here](https://blog.cleancoder.com/uncle-bob/images/fpvsoo.jpg)](https://blog.cleancoder.com/uncle-bob/images/fpvsoo.jpg)
+
+https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html
+
 
 ### Functional Programming...
 
+* **What Can Python Learn from Haskell**
+
+   Slides http://bob.ippoli.to/python-haskell-ep2014/#/title
+
+   Video (TIB AV-Portal) https://av.tib.eu/media/19950 
+
+   Video (YouTube) https://www.youtube.com/watch?v=eVChXmNjV7o
+
+   See the AST parsing example towards the end...
+
+   [![Image alt_text goes here](https://img.youtube.com/vi/eVChXmNjV7o/0.jpg)](https://www.youtube.com/embed/eVChXmNjV7o)
+
+
 ### Algebraic Data Types...
 
-### Fsharp For Fun and Profit (Scott Wlaschin)
+Best thing ever !!!
+
+## Fsharp For Fun and Profit (Scott Wlaschin)
 
 * **Functions as Interfaces** https://fsharpforfunandprofit.com/posts/convenience-functions-as-interfaces/
 
-* **What Can Python Learn from Haskell**
+## TypeScript
 
-Slides http://bob.ippoli.to/python-haskell-ep2014/#/title
+* TypeScript Docs
 
-Video (TIB AV-Portal) https://av.tib.eu/media/19950 
+  https://www.typescriptlang.org/docs/home.html
 
-Video (YouTube) https://www.youtube.com/watch?v=eVChXmNjV7o
+* TypeScript in 5 Minutes
 
-See the AST parsing example towards the end...
+  https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 
-[![Image alt_text goes here](https://img.youtube.com/vi/eVChXmNjV7o/0.jpg)](https://www.youtube.com/embed/eVChXmNjV7o)
 
+* Five tips I wish I knew when I started with Typescript 
+
+  https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8609029db
 
 ## YouTube
 
@@ -115,7 +149,7 @@ It's not possible to embed videos (in GitHub markdown) directly, but you can put
 
 The result looks like this;
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tgbNymZ7vqY/0.jpg)](https://www.youtube.com/watch?v=tgbNymZ7vqY)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tgbNymZ7vqY/0.jpg)](https://www.youtube.com/watch?v=tgbNymZ7vqY)
 
 
 For more information look [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos).
