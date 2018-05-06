@@ -132,7 +132,7 @@ https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html
 
 ### Functional Programming...
 
-* **What Can Python Learn from Haskell**
+* **What Can Python Learn from Haskell ?**
 
    Slides http://bob.ippoli.to/python-haskell-ep2014/#/title
 
@@ -143,6 +143,12 @@ https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html
    See the AST parsing example towards the end...
 
    [![Image alt_text goes here](https://img.youtube.com/vi/eVChXmNjV7o/0.jpg)](https://www.youtube.com/embed/eVChXmNjV7o)
+
+* **Functional C++**
+
+   Safari Books Online Video
+   
+   https://www.safaribooksonline.com/library/view/modern-c-design/9781491978719/video298486.html
 
 
 ### Algebraic Data Types...
