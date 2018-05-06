@@ -99,7 +99,18 @@ outputs...
 
 ## Machine Learning
 
+* In-depth introduction to machine learning in 15 hours of expert videos
 
+  R-Bloggers
+  
+  https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+
+  Data School
+  
+  http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/ 
+  http://www.dataschool.io/tag/popular/
+  
+  
 ## Computer Science
 
 ### (Avoidance of) Object-Oriented Programming...
