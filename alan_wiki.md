@@ -51,23 +51,34 @@ HTML tables seem to work fine.
 
 ## Computer Science
 
+### (Avoidance of) Object-Oriented Programming...
+
 * *Non-member Functions Increase Encapsulation* (Scott Meyers, Dr Dobbs Article)
 
-http://www.drdobbs.com/cpp/how-non-member-functions-improve-encapsu/184401197
+   http://www.drdobbs.com/cpp/how-non-member-functions-improve-encapsu/184401197
+
+### (Avoidance of) Design Patterns...
 
 ### Functional Programming...
 
 ### Algebraic Data Types...
 
-### Avoidance of Design Patterns...
-
 ### Fsharp For Fun and Profit (Scott Wlaschin)
 
 * **Functions as Interfaces** https://fsharpforfunandprofit.com/posts/convenience-functions-as-interfaces/
 
-* **What Python Can Learn from Haskell** (TIB AV-Portal) https://av.tib.eu/media/19950 
+* **What Can Python Learn from Haskell**
 
-> See the AST parsing example towards the end...
+Slides http://bob.ippoli.to/python-haskell-ep2014/#/title
+
+Video (TIB AV-Portal) https://av.tib.eu/media/19950 
+
+Video (YouTube) https://www.youtube.com/watch?v=eVChXmNjV7o
+
+See the AST parsing example towards the end...
+
+[![Image alt_text goes here](https://img.youtube.com/vi/eVChXmNjV7o/0.jpg)](https://www.youtube.com/embed/eVChXmNjV7o)
+
 
 ## YouTube
 
