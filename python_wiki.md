@@ -1,10 +1,43 @@
+# Visual Studio Code
+
+* Python on Visual Studio Code <https://code.visualstudio.com/docs/languages/python>
+
+
+# Documentation
+
+* **MkDocs** and MathJax https://stackoverflow.com/questions/27882261/mkdocs-and-mathjax
+
+
+# Dictionary
+
+* Don’t inherit Python built-in dict type
+
+  http://www.kr41.net/2016/03-23-dont_inherit_python_builtin_dict_type.html
+
+
+
+# Mypy (Type Checking)
+
+* Mypy Type Inference
+
+  https://github.com/python/mypy/wiki/Type-Checker
+
+* Mypy Function Overloading 
+
+  http://mypy.readthedocs.io/en/latest/function_overloading.html
+
+
 # Functional Programming
 
 * **Awesome Functional Python** https://github.com/sfermigier/awesome-functional-python
 
 * **DataQuest** Introduction to Functional Programming  https://www.dataquest.io/blog/introduction-functional-programming-python/
 
-* Python **hask** library
+* **Hask** Python Library
+
+  Hask is a pure-Python, zero-dependencies library that mimics most of the core language tools from Haskell.
+  
+  https://github.com/billpmurphy/hask
 
 
 # Pattern Matching
@@ -37,16 +70,6 @@
 * **Valued Lesson** Monads in Python (with nice syntax!) http://www.valuedlessons.com/2008/01/monads-in-python-with-nice-syntax.html
 
 * The State Monad in Python terms https://gaiustech.wordpress.com/2010/09/06/on-monads/
-
-
-# Visual Studio Code
-
-* Python on Visual Studio Code <https://code.visualstudio.com/docs/languages/python>
-
-
-# Documentation
-
-* **MkDocs** and MathJax https://stackoverflow.com/questions/27882261/mkdocs-and-mathjax
 
 
 # Statistical Modelling
