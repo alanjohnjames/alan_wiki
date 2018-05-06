@@ -19,6 +19,8 @@ This is my current To Do List
 
 * GitHub Writing https://help.github.com/categories/writing-on-github/
 
+* GitHub Markdown Spec https://github.github.com/gfm/#example-265
+
 * GitHub Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos
 
 # Visual Studio Code (VS Code)
@@ -134,3 +136,12 @@ If you want to keep it simple, just make it a link using the following syntax:
 
 * chrift/RightMove-Scraper https://github.com/chrift/RightMove-Scraper
 
+
+## Bloomberg
+
+*The Gambler Who Cracked the Horse-Racing Code*
+
+Bill Benter did the impossible: He wrote an algorithm that couldn’t lose at the track.
+Close to a billion dollars later, he tells his story for the first time.
+
+https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code
