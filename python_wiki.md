@@ -15,12 +15,22 @@
   http://www.kr41.net/2016/03-23-dont_inherit_python_builtin_dict_type.html
 
 
+# Meta-Classes
+
+* Python metaclasses by example
+
+  https://eli.thegreenplace.net/2011/08/14/python-metaclasses-by-example
+
 
 # Mypy (Type Checking)
 
 * Mypy Type Inference
 
   https://github.com/python/mypy/wiki/Type-Checker
+
+* Mypy Type Checker
+
+  https://github.com/python/mypy/blob/master/mypy/checker.py
 
 * Mypy Function Overloading 
 
