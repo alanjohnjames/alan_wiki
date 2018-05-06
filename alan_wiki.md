@@ -17,6 +17,10 @@ This is my current To Do List
 
 * GitHub Guides https://guides.github.com
 
+* GitHub Writing https://help.github.com/categories/writing-on-github/
+
+* GitHub Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos
+
 # Visual Studio Code (VS Code)
 
 * Documentation <https://code.visualstudio.com/docs> 
@@ -32,17 +36,28 @@ This is my current To Do List
 ## LaTeX
 
 Embedded math does not seem to work on GitHub. 
-$$e=mc$$
+$e=mc^2$
 
 But you can embed math from other URLs 
 <embed http://mathurl.com/5euwuy />
 
-HTML tables seem to work fine. 
+HTML tables seem to work fine.
+
+```html
+    <table>
+        <tr>
+            <td>Foo</td>
+        </tr>
+    </table>
+```
+outputs... 
+
 <table>
     <tr>
         <td>Foo</td>
     </tr>
 </table>
+
 
 ## Data Science
 
