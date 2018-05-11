@@ -1,11 +1,15 @@
 # Visual Studio Code
 
-* Python on Visual Studio Code <https://code.visualstudio.com/docs/languages/python>
+* Python on Visual Studio Code 
+
+  https://code.visualstudio.com/docs/languages/python
 
 
 # Documentation
 
-* **MkDocs** and MathJax https://stackoverflow.com/questions/27882261/mkdocs-and-mathjax
+* **MkDocs** and MathJax
+
+  https://stackoverflow.com/questions/27882261/mkdocs-and-mathjax
 
 
 # Dictionary
@@ -39,9 +43,13 @@
 
 # Functional Programming
 
-* **Awesome Functional Python** https://github.com/sfermigier/awesome-functional-python
+* **Awesome Functional Python**
 
-* **DataQuest** Introduction to Functional Programming  https://www.dataquest.io/blog/introduction-functional-programming-python/
+  https://github.com/sfermigier/awesome-functional-python
+
+* **DataQuest** Introduction to Functional Programming
+
+  https://www.dataquest.io/blog/introduction-functional-programming-python/
 
 * **Hask** Python Library
 
@@ -52,49 +60,78 @@
 
 # Pattern Matching
 
-* **Pattern | Matched** Some things with mypy: sum and product types http://averagehat.github.io/posts/types.html
+* **Pattern | Matched** Some things with mypy: sum and product types
 
-* **HackFlow** Python Pattern Matching with AST Inspection http://hackflow.com/blog/2015/03/29/metaprogramming-beyond-decency/
+  http://averagehat.github.io/posts/types.html
 
-* **adt.py** https://github.com/ericgj/adt.py
+* **HackFlow** Python Pattern Matching with AST Inspection
+
+  http://hackflow.com/blog/2015/03/29/metaprogramming-beyond-decency/
+
+* **adt.py**
+
+  https://github.com/ericgj/adt.py
+
+* **admk/patmat**
+
+  https://github.com/admk/patmat/blob/master/README.rst
+
+* **chadselph/patternmatching.py**
+
+  https://gist.github.com/chadselph/1320421
 
 
 # Monads
 
-* Monads for Normal People (Slides) https://www.slideshare.net/eldariof/monads-in-python
+* ** Monads for Normal People**
 
-* Monads for Normal People (Video) https://www.infoq.com/presentations/Monads-Code#
+  (Slides) https://www.slideshare.net/eldariof/monads-in-python
 
-* dustingetz/pymonads https://github.com/dustingetz/pymonads
+  (Video) https://www.infoq.com/presentations/Monads-Code#
 
-* dustingetz/monadic-interpreter https://github.com/dustingetz/monadic-interpreter
+  dustingetz/pymonads https://github.com/dustingetz/pymonads
 
-* **Three Useful Monads** Reader, Writer, State https://github.com/dbrattli/OSlash/wiki/Three-Useful-Monads
+  dustingetz/monadic-interpreter https://github.com/dustingetz/monadic-interpreter
 
-* Monads, part 1: a design pattern https://www.stephanboyer.com/post/9/monads-part-1-a-design-pattern
+* **Three Useful Monads** Reader, Writer, State
 
-* Monads, part 2: impure computations https://www.stephanboyer.com/post/10/monads-part-2-impure-computations
+  https://github.com/dbrattli/OSlash/wiki/Three-Useful-Monads
+
+* **Monads**
+
+  Monads, part 1: a design pattern https://www.stephanboyer.com/post/9/monads-part-1-a-design-pattern
+
+  Monads, part 2: impure computations https://www.stephanboyer.com/post/10/monads-part-2-impure-computations
 
 * Monads in 15 minutes http://nikgrozev.com/2013/12/10/monads-in-15-minutes/
 
-* **Valued Lesson** Monads in Python (with nice syntax!) http://www.valuedlessons.com/2008/01/monads-in-python-with-nice-syntax.html
+* **Valued Lesson**
 
-* The State Monad in Python terms https://gaiustech.wordpress.com/2010/09/06/on-monads/
+  Monads in Python (with nice syntax!) http://www.valuedlessons.com/2008/01/monads-in-python-with-nice-syntax.html
+
+* **The State Monad in Python terms**
+
+  https://gaiustech.wordpress.com/2010/09/06/on-monads/
 
 
 # Statistical Modelling
 
-* Stats Models http://www.statsmodels.org/stable/index.html
+* **Stats Models**
+
+  http://www.statsmodels.org/stable/index.html
 
 
 # Machine Learning
 
 * **Tensor Flow** Live Lessons https://github.com/the-deep-learners/TensorFlow-LiveLessons
 
-* Jon Krohn website https://www.jonkrohn.com
+* **Deep Reinforcement Learning**
 
-* Jon Krohn on Medium https://insights.untapt.com/filming-deep-reinforcement-learning-and-generative-adversarial-network-livelessons-772e76828302
+  Deep Learning Illustrated https://www.deeplearningillustrated.com
 
-* Deep Learning Illustrated https://www.deeplearningillustrated.com
+  Jon Krohn (website) https://www.jonkrohn.com
+
+  Jon Krohn (on Medium) https://insights.untapt.com/filming-deep-reinforcement-learning-and-generative-adversarial-network-livelessons-772e76828302
+
 
 
