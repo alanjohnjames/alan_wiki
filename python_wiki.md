@@ -83,7 +83,7 @@
 
 # Monads
 
-* ** Monads for Normal People**
+* **Monads for Normal People**
 
   (Slides) https://www.slideshare.net/eldariof/monads-in-python
 
@@ -116,7 +116,7 @@
 
 # Statistical Modelling
 
-* **Stats Models**
+* **Stats Models** Python Library
 
   http://www.statsmodels.org/stable/index.html
 
