@@ -22,3 +22,23 @@
   Personal Website https://www.jonkrohn.com
 
   Medium https://insights.untapt.com/filming-deep-reinforcement-learning-and-generative-adversarial-network-livelessons-772e76828302
+
+# sklearn
+
+# Bokeh
+
+  Kickstarter Dashboard 
+  https://bokeh-dashboard-example.herokuapp.com/app
+
+# Plotly
+
+  https://plot.ly
+
+# Dash
+
+  https://plot.ly/products/dash/
+
+
+# heroku
+
+  https://www.heroku.com/home
