@@ -106,8 +106,14 @@
 
   https://gaiustech.wordpress.com/2010/09/06/on-monads/
 
+* ## Monads for Normal Programmers
 
-
+  Part 1: http://blog.jorgenschaefer.de/2013/01/monads-for-normal-programmers.html
+  
+  Part 2: http://blog.jorgenschaefer.de/2013/02/monads-for-normal-programmers-part-2.html
+  
+  Source Code: https://github.com/jorgenschaefer/monads-for-normal-programmers
+  
 
 
 
