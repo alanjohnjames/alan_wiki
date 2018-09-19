@@ -1,0 +1,16 @@
+{
+    // Path to Python, you can use a custom version of Python by modifying this setting to include the full path.
+    "python.pythonPath": "/Users/alan/anaconda3/envs/alan_env/bin/python",
+
+    // Path to folder with a list of Virtual Environments (e.g. ~/.pyenv, ~/Envs, ~/.virtualenvs).
+    "python.venvPath": "/Users/alan/anaconda3/envs/",
+
+    // Whether to lint Python files using mypy.
+    "python.linting.mypyEnabled": true,
+
+    // Whether to enable or disable unit testing using pytest.
+    "python.unitTest.pyTestEnabled": true,
+
+    // Arguments passed in. Each argument is a separate item in the array.
+    "python.unitTest.pyTestArgs": [],
+}

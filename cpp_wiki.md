@@ -6,7 +6,6 @@ Wiki of all findings on C++ !
 
 * C/C++ on Visual Studio Code https://code.visualstudio.com/docs/languages/cpp
 
-
 # C++11 / C++17
 
 * C++ Seasoning https://www.youtube.com/watch?v=qH6sSOr-yk8
@@ -19,4 +18,3 @@ A look at many of the new features in C++ and a couple of old features you may n
 * Cling on GitHub https://github.com/QuantStack/xeus-cling
 
 Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libraries.
-
