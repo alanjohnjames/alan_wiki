@@ -47,7 +47,7 @@ The first week will be an overview of Statistical Learning, and will cover the f
 
 ## Chapter 1 Introduciton
 
-###  1.1 Opening Remarks
+### 1.1 Opening Remarks
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2wLfFB_6SKI/0.jpg)](https://www.youtube.com/watch?v=2wLfFB_6SKI)
 
@@ -61,3 +61,26 @@ The first week will be an overview of Statistical Learning, and will cover the f
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WjyuiK5taS8/0.jpg)](https://www.youtube.com/watch?v=WjyuiK5taS8)
 
+### 2.2 Dimensionality and Structured Models
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UvxHOkYQl8g/0.jpg)](https://www.youtube.com/watch?v=UvxHOkYQl8g)
+
+### 2.3 Model Selection and Bias-Variance Trade-Off
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VusKAosxxyk/0.jpg)](https://www.youtube.com/watch?v=VusKAosxxyk)
+
+### 2.4 Classification
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vVj2itVNku4/0.jpg)](https://www.youtube.com/watch?v=vVj2itVNku4)
+
+### 2.R Introduction to R
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jwBgGS_4RQA/0.jpg)](https://www.youtube.com/watch?v=jwBgGS_4RQA)
+
+### 2Interview with John Chambers
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jk9S3RTAl38/0.jpg)](https://www.youtube.com/watch?v=jk9S3RTAl38)
+
+## Chapter 3 Linear Regression
+
+### 3.1 Simple Linear Regression
