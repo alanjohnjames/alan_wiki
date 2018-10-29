@@ -2,17 +2,17 @@
 
 Wiki of all findings on C++ ! 
 
-# Visual Studio Code
+## Visual Studio Code
 
 * C/C++ on Visual Studio Code https://code.visualstudio.com/docs/languages/cpp
 
-# C++11 / C++17
+## C++11 / C++17
 
 * C++ Seasoning https://www.youtube.com/watch?v=qH6sSOr-yk8
 
 A look at many of the new features in C++ and a couple of old features you may not have known about. With the goal of correctness in mind, we'll see how to utilize these features to create simple, clear, and beautiful code.
 
-# Jupyter Notebook
+## Jupyter Notebook
 
 * Cling https://root.cern.ch/cling
 * Cling on GitHub https://github.com/QuantStack/xeus-cling

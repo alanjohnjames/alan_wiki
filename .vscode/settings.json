@@ -13,4 +13,5 @@
 
     // Arguments passed in. Each argument is a separate item in the array.
     "python.unitTest.pyTestArgs": [],
+    "python.linting.enabled": true,
 }

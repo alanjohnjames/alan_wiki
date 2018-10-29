@@ -37,7 +37,7 @@ This is my current To Do List
 
 ## LaTeX
 
-Embedded math does not seem to work on GitHub. 
+Embedded math does not seem to work on GitHub.
 $e=mc^2$
 
 Supposedly you can embed math from other URLs 
@@ -52,7 +52,8 @@ HTML tables seem to work fine.
         </tr>
     </table>
 ```
-outputs... 
+
+outputs...
 
 <table>
     <tr>
@@ -60,41 +61,9 @@ outputs...
     </tr>
 </table>
 
-
 ## Data Science
 
 * datavizforall.org https://www.datavizforall.org/embed/iframe-github/
-
-
-## Statistical Learning
-
-### Stanford On-Line Course
-
-* Statistical Learning
-
-  https://online.stanford.edu/course/statistical-learning-self-paced
-
-* On-Line Course
-
-  https://lagunita.stanford.edu/login?next=/courses/HumanitiesandScience/StatLearning/Winter2015/progress
-
-* An Introduction to Statistical Learning 
-
-  Book Home Page http://www-bcf.usc.edu/~gareth/ISL/
-  
-  PDF Book http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf
-
-  Unofficial Solutions http://blog.princehonest.com/stat-learning/
-
-* Videos
-
-  https://www.youtube.com/playlist?list=PL5-da3qGB5ICcUhueCyu25slvsGp8IDTa
-
-
-* Elements of Statistical Learning 
-
-  PDF Book https://web.stanford.edu/~hastie/Papers/ESLII.pdf
-
 
 ## Machine Learning
 
@@ -109,10 +78,9 @@ outputs...
   http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/ 
   http://www.dataschool.io/tag/popular/
   
-  
 ## Computer Science
 
-### (Avoidance of) Object-Oriented Programming...
+### (Avoidance of) Object-Oriented Programming
 
 * Non-member Functions Increase Encapsulation (Scott Meyers, Dr Dobbs Article)
 
@@ -122,14 +90,13 @@ outputs...
 
     https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
 
-### (Avoidance of) Design Patterns...
+### (Avoidance of) Design Patterns
 
 [![Image alt_text goes here](https://blog.cleancoder.com/uncle-bob/images/fpvsoo.jpg)](https://blog.cleancoder.com/uncle-bob/images/fpvsoo.jpg)
 
 https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html
 
-
-### Functional Programming...
+### Functional Programming
 
 * **What Can Python Learn from Haskell ?**
 
@@ -146,11 +113,10 @@ https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html
 * **Functional C++**
 
    Safari Books Online Video
-   
+
    https://www.safaribooksonline.com/library/view/modern-c-design/9781491978719/video298486.html
 
-
-### Algebraic Data Types...
+### Algebraic Data Types
 
 Best thing ever !!!
 
@@ -168,14 +134,14 @@ Best thing ever !!!
 
   https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 
-
 * Five tips I wish I knew when I started with Typescript 
 
   https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8609029db
 
 ## YouTube
 
-The format for embedding YouTube videos in web pages is 
+The format for embedding YouTube videos in web pages is
+
 ```html
     <iframe width="420" height="315"
     src="https://www.youtube.com/embed/tgbNymZ7vqY">
