@@ -47,17 +47,17 @@ The first week will be an overview of Statistical Learning, and will cover the f
 
 ## Chapter 1 Introduciton
 
-### 1.1 Opening Remarks
+###  1.1 Opening Remarks
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2wLfFB_6SKI/0.jpg)](https://www.youtube.com/watch?v=2wLfFB_6SKI)
 
-### 1.2 Examples and Framework
+### 1.2 Examples and Framework
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LvaTokhYnDw/0.jpg)](https://www.youtube.com/watch?v=LvaTokhYnDw)
 
 ## Chapter 2 Overview of Statistical Learning
 
-### 2.1 Introduction to Regression Models
+### 2.1 Introduction to Regression Models
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WjyuiK5taS8/0.jpg)](https://www.youtube.com/watch?v=WjyuiK5taS8)
 
