@@ -154,4 +154,3 @@ The first week will be an overview of Statistical Learning, and will cover the f
 #### Nearest Neighbour Classification
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9TVVF7CS3F4/0.jpg)](https://www.youtube.com/watch?v=9TVVF7CS3F4)
-
