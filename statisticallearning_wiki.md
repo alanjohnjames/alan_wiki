@@ -143,7 +143,7 @@ The first week will be an overview of Statistical Learning, and will cover the f
 
 ### 4.R Classification in R
 
-#### Logistic Regression
+#### Logistic Regression
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TxvEVc8YNlU/0.jpg)](https://www.youtube.com/watch?v=TxvEVc8YNlU)
 
