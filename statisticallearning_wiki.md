@@ -84,3 +84,28 @@ The first week will be an overview of Statistical Learning, and will cover the f
 ## Chapter 3 Linear Regression
 
 ### 3.1 Simple Linear Regression
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PsE9UqoWtS4/0.jpg)](https://www.youtube.com/watch?v=PsE9UqoWtS4)
+
+### 3.2 Hypothesis Testing and Confidence Intervals
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J6AdoiNUyWI/0.jpg)](https://www.youtube.com/watch?v=J6AdoiNUyWI)
+
+### 3.3 Multiple Linear Regression
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1hbCJyM9ccs/0.jpg)](https://www.youtube.com/watch?v=1hbCJyM9ccs)
+
+### 3.4 Some Important Questions
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3T6RXmIHbJ4/0.jpg)](https://www.youtube.com/watch?v=3T6RXmIHbJ4)
+
+### 3.5 Extensions of the Linear Model
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IFzVxLv0TKQ/0.jpg)](https://www.youtube.com/watch?v=IFzVxLv0TKQ)
+
+### 3.R Linear Regression in R
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5ONFqIk3RFg/0.jpg)](https://www.youtube.com/watch?v=5ONFqIk3RFg)
+
+## Chapter 4 Classification
+
