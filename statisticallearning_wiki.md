@@ -109,3 +109,23 @@ The first week will be an overview of Statistical Learning, and will cover the f
 
 ## Chapter 4 Classification
 
+### 4.1 Introduction to Classification Problems
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sqq21-VIa1c/0.jpg)](https://www.youtube.com/watch?v=sqq21-VIa1c)
+
+### 4.2 Logistic Regression
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/31Q5FGRnxt4/0.jpg)](https://www.youtube.com/watch?v=31Q5FGRnxt4)
+
+### 4.3 Multivariate Logistic Regression
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MpX8rVv_u4E/0.jpg)](https://www.youtube.com/watch?v=MpX8rVv_u4E)
+
+### 4.4 Logistic Regression - Case-Control Sampling and Multiclass
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GavRXXEHGqU/0.jpg)](https://www.youtube.com/watch?v=GavRXXEHGqU)
+
+### 4.5 Discriminant Analysis
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RfrGiG1Hm3M/0.jpg)](https://www.youtube.com/watch?v=RfrGiG1Hm3M)
+
