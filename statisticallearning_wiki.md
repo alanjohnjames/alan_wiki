@@ -4,10 +4,10 @@
 
 Welcome to Statistical Learning!
 
-Your learning adventure with Trevor, Rob and their team begins today.
+Your learning adventure with Trevor Hastie, Rob Tibshirani and their team begins today.
 
 
-The course follows closely the sequence of chapters in the course text "An Introduction to Statistical Learning, with Applications in R" (James, Witten, Hastie, Tibshirani - Springer 2013). 
+The course follows closely the sequence of chapters in the course text *"An Introduction to Statistical Learning, with Applications in R"* (James, Witten, Hastie, Tibshirani - Springer 2013). 
 
 Remember, this textbook is available for free online at http://www-bcf.usc.edu/~gareth/ISL/.
 
