@@ -109,3 +109,49 @@ The first week will be an overview of Statistical Learning, and will cover the f
 
 ## Chapter 4 Classification
 
+### 4.1 Introduction to Classification Problems
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sqq21-VIa1c/0.jpg)](https://www.youtube.com/watch?v=sqq21-VIa1c)
+
+### 4.2 Logistic Regression
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/31Q5FGRnxt4/0.jpg)](https://www.youtube.com/watch?v=31Q5FGRnxt4)
+
+### 4.3 Multivariate Logistic Regression
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MpX8rVv_u4E/0.jpg)](https://www.youtube.com/watch?v=MpX8rVv_u4E)
+
+### 4.4 Logistic Regression - Case-Control Sampling and Multiclass
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GavRXXEHGqU/0.jpg)](https://www.youtube.com/watch?v=GavRXXEHGqU)
+
+### 4.5 Discriminant Analysis
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RfrGiG1Hm3M/0.jpg)](https://www.youtube.com/watch?v=RfrGiG1Hm3M)
+
+### 4.6 Gaussian Discriminant Analysis - One Variable
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QG0pVJXT6EU/0.jpg)](https://www.youtube.com/watch?v=QG0pVJXT6EU)
+
+### 4.7 Gaussian Discriminant Analysis - Many Variables
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/X4VDZDp2vqw/0.jpg)](https://www.youtube.com/watch?v=X4VDZDp2vqw)
+
+### 4.8 Quadratic Discriminant Analysis and Naive Bayes
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6FiNGTYAOAA/0.jpg)](https://www.youtube.com/watch?v=6FiNGTYAOAA)
+
+### 4.R Classification in R
+
+#### Logistic Regression
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TxvEVc8YNlU/0.jpg)](https://www.youtube.com/watch?v=TxvEVc8YNlU)
+
+#### Linear Discriminant Analysis
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2cl7JiPzkBY/0.jpg)](https://www.youtube.com/watch?v=2cl7JiPzkBY)
+
+#### Nearest Neighbour Classification
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9TVVF7CS3F4/0.jpg)](https://www.youtube.com/watch?v=9TVVF7CS3F4)
+
