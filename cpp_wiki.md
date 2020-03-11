@@ -18,3 +18,18 @@ A look at many of the new features in C++ and a couple of old features you may n
 * Cling on GitHub https://github.com/QuantStack/xeus-cling
 
 Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libraries.
+
+
+## Traits
+
+* class `Bird` and `Fish` with an `Amimal` base class and a `move()` method 
+  https://www.quora.com/Are-If-else-statements-bad-code
+
+
+## The Curiously Recurring Template Pattern (CRTP)
+
+* https://www.fluentcpp.com/2017/05/12/curiously-recurring-template-pattern/
+
+
+
+
