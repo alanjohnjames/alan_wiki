@@ -31,5 +31,8 @@ Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libr
 * https://www.fluentcpp.com/2017/05/12/curiously-recurring-template-pattern/
 
 
+## Pattern Matching
 
+* Simple, Extensible C++ Pattern Matching Library (Header only)
+  https://github.com/jbandela/simple_match
 
