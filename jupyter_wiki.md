@@ -24,7 +24,7 @@
   https://github.com/binder-examples
 
 
-# Jupyter Interactive
+# Jupyter Interactive
 
   Advanced Jupyter Notebook Tricks — Part I
 
