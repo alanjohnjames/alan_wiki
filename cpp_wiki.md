@@ -26,6 +26,10 @@ Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libr
   https://www.quora.com/Are-If-else-statements-bad-code
 
 
+## Dependency Injection
+
+Dependency Injection links go here...
+
 ## The Curiously Recurring Template Pattern (CRTP)
 
 * https://www.fluentcpp.com/2017/05/12/curiously-recurring-template-pattern/
