@@ -23,11 +23,11 @@ The first week will be an overview of Statistical Learning, and will cover the f
     Week 8: Support Vector Machines (Chapter 9)
     Week 9: Unsupervised Learning (Chapter 10)
 
-* Statistical Learning
+* EdX and Stanford On-Line Course
+
+  https://www.edx.org/course/statistical-learning
 
   https://online.stanford.edu/course/statistical-learning-self-paced
-
-* On-Line Course
 
   https://lagunita.stanford.edu/login?next=/courses/HumanitiesandScience/StatLearning/Winter2015/progress
 
@@ -45,9 +45,9 @@ The first week will be an overview of Statistical Learning, and will cover the f
 
   https://www.youtube.com/playlist?list=PL5-da3qGB5ICcUhueCyu25slvsGp8IDTa
 
-* Introduction to Statistical Learning (aka Machine Leanring)
+* [DataSchool.io](https://www.dataschool.io) Course and YouTube Channel 
 
-    Data School YouTube channel 
+    https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
 
     https://www.youtube.com/c/dataschool/playlists?view=50&sort=dd&shelf_id=10
 
