@@ -45,6 +45,12 @@ The first week will be an overview of Statistical Learning, and will cover the f
 
   https://www.youtube.com/playlist?list=PL5-da3qGB5ICcUhueCyu25slvsGp8IDTa
 
+* Introduction to Statistical Learning (aka Machine Leanring)
+
+    Data School YouTube channel 
+
+    https://www.youtube.com/c/dataschool/playlists?view=50&sort=dd&shelf_id=10
+
 ## Chapter 1 Introduciton
 
 ### 1.1 Opening Remarks
