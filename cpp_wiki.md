@@ -1,4 +1,4 @@
-# C++
+# C++ Wiki
 
 Wiki of all findings on C++ ! 
 
@@ -12,7 +12,7 @@ Wiki of all findings on C++ !
 
 A look at many of the new features in C++ and a couple of old features you may not have known about. With the goal of correctness in mind, we'll see how to utilize these features to create simple, clear, and beautiful code.
 
-## Jupyter Notebook
+## Cling Jupyter Notebook
 
 * Cling https://root.cern.ch/cling
 * Cling on GitHub https://github.com/QuantStack/xeus-cling
@@ -40,3 +40,17 @@ Dependency Injection links go here...
 * Simple, Extensible C++ Pattern Matching Library (Header only)
   https://github.com/jbandela/simple_match
 
+## C++20
+
+Reflect: C++20 Static Reflection library
+https://github.com/qlibs/reflect
+
+RTTR Run Time Type Reflection
+https://www.rttr.org/
+
+Magic Enum (Compile-Time Reflection for Enums)
+https://github.com/Neargye/magic_enum
+
+
+Boost Hana - Reflection can be added to user-defined types very easily. This allows iterating over the members of a user-defined type, querying members with a programmatic interface and much more, without any runtime overhead
+https://www.boost.org/doc/libs/latest/libs/hana/doc/html/index.html

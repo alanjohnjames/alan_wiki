@@ -42,3 +42,12 @@
 # heroku
 
   https://www.heroku.com/home
+
+
+## Books
+
+Build a Large Language Model From Scratch
+https://www.manning.com/books/build-a-large-language-model-from-scratch
+
+GitHub Repo: LLMs From Scratch
+https://github.com/rasbt/LLMs-from-scratch

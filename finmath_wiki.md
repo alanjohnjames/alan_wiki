@@ -54,3 +54,31 @@
 * [The XVA Challenge: Counterparty Credit Risk, Funding, Collateral, and Capital - Jon Gregory - Google Books](https://books.google.co.uk/books?id=cQOPCQAAQBAJ&pg=PA280&lpg=PA280&dq=proxy+credit+curve&source=bl&ots=tiui-clTod&sig=CcFYF858HZ8zL9sUgEjpSfsa6Vk&hl=en&sa=X&ved=0ahUKEwjgz76e1_DUAhWlO5oKHWD6BsgQ6AEIZDAJ#v=onepage&q=proxy%20credit%20curve&f=false)
 * [Markit File](https://www.markit.com/Product/File?CMSID=368ae091505d401a80660456ba504930)
 
+## FRTB
+
+ModVal.org is an online resource for model validation
+https://www.modval.org/home/
+
+FRTB SA and IMA
+https://www.modval.org/capital/
+
+
+## Yield Curve
+
+How To Hedge DV01: Understanding Curve Trades and Forwards
+https://actrixft.com/how-to-hedge-dv01-understanding-curve-trades-and-forwards/
+
+
+## Economietrics
+
+Fama and French: The Five-Factor Model
+https://blogs.cfainstitute.org/investor/2022/01/10/fama-and-french-the-five-factor-model-revisited/
+
+
+## Euclidian Norm
+
+L1, L2, L8 Norm
+https://en.wikipedia.org/wiki/Norm_(mathematics)
+
+
+
