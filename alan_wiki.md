@@ -8,7 +8,11 @@ This is my current To Do List
 - [ ] In progress
 - [x] Already done
 
-# Mac OS
+# macOS
+
+Provide macOS feedback
+https://www.apple.com/feedback/macos/
+
 
 * Going Flash-Free on Mac OS X https://daringfireball.net/2010/11/flash_free_and_cheating_with_google_chrome
 * Open in Chrome (Safari extension that opens the current page in Chrome) https://github.com/lhagan/Open-in-Chrome
@@ -23,6 +27,14 @@ This is my current To Do List
 
 * GitHub Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#youtube-videos
 
+
+## Learning
+
+Edx.org
+https://www.edx.org
+
+
+
 # Visual Studio Code (VS Code)
 
 * Documentation <https://code.visualstudio.com/docs> 
@@ -34,6 +46,9 @@ This is my current To Do List
 * Python https://code.visualstudio.com/docs/languages/python
 
 * Perforce Extension <https://github.com/stef-levesque/vscode-perforce>
+
+
+
 
 ## LaTeX
 
@@ -187,3 +202,18 @@ Bill Benter did the impossible: He wrote an algorithm that couldn’t lose at th
 Close to a billion dollars later, he tells his story for the first time.
 
 https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code
+
+
+## Julius Teechnoloogies 
+
+Website
+https://www.juliustech.co
+
+YouTube Channel
+https://www.youtube.com/channel/UCgFJBf9aePqAVQn7VqgenWw
+
+GitHub
+https://github.com/orgs/JuliusTechCo/repositories
+
+JuliusGraph
+https://github.com/JuliusTechCo/JuliusGraph

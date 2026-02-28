@@ -18,7 +18,20 @@ Once Upon a Time in Space
 https://www.bbc.co.uk/iplayer/episode/m002hyt8/once-upon-a-time-in-space-series-1-1-america-first?at_campaign=crm&at_medium=emails&at_objective=conversion&at_ptr_name=airship&at_campaign_type=owned&at_ptr_type=media&at_creation=
 
 
+## UK Politics
+
+What is the Market Fundamentalist Agenda?
+https://99-percent.org/what-is-the-market-fundamentalist-agenda/
+
+Welsh pro-Brexit town prepares for loss of EU investment | AFP
+https://www.youtube.com/watch?v=Y979Qs8rMR0
+
+
 ## US Politics
+
+This lawyer should be world-famous for his battle with Chevron – but he’s in jail
+by Erin Brockovich
+https://www.theguardian.com/commentisfree/2022/feb/08/chevron-amazon-ecuador-steven-donziger-erin-brockovich
 
 Mamdani NYC mayoral Election
 https://x.com/drewholden360/status/1986072763249901898?s=12&t=4Y0Igqd2RPZzgtVL29t9eg
@@ -26,6 +39,14 @@ https://x.com/drewholden360/status/1986072763249901898?s=12&t=4Y0Igqd2RPZzgtVL29
 Zohran’s Park Slope Populists
 https://www.commonplace.org/p/zohrans-park-slope-populists
 
+
+## Ukraine
+
+Bill Browder - How I figured out the Achilles heel of Vladimir Putin
+https://www.youtube.com/watch?v=BT254smRufA
+
+Brian Toon - I've studied nuclear war for 35 years, you should be worried!
+https://www.youtube.com/watch?v=M7hOpT0lPGI
 
 ## Investing
 

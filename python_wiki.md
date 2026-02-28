@@ -115,5 +115,8 @@
   Source Code: https://github.com/jorgenschaefer/monads-for-normal-programmers
   
 
+# Virtual Environments
 
+How to improve Python packaging, or why fourteen tools are at least twelve too many
+https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/#
 

@@ -19,3 +19,7 @@ https://learn.microsoft.com/en-us/dotnet/fsharp/get-started/get-started-vscode
 Ionide
 https://ionide.io/Editors/Code/getting_started.html
 
+Note taking inside of VS Code
+https://www.youtube.com/watch?v=dW6m4_O0qvQ
+
+

@@ -75,10 +75,20 @@ Fama and French: The Five-Factor Model
 https://blogs.cfainstitute.org/investor/2022/01/10/fama-and-french-the-five-factor-model-revisited/
 
 
-## Euclidian Norm
 
-L1, L2, L8 Norm
-https://en.wikipedia.org/wiki/Norm_(mathematics)
+## Risk
 
 
+Quantitative Risk Management: Concepts, Techniques and Tools (Princeton Series in Finance): Concepts, Techniques and Tools - Revised Edition
+https://www.amazon.co.uk/Quantitative-Risk-Management-Techniques-Princeton/dp/0691166277
+
+
+Financial market data differential equation steady state analysis
+
+Statistics of Financial Markets (Springer Books)
+https://link.springer.com/book/10.1007/978-3-642-16521-4?page=2#toc
+
+
+The Power of Differential Equations in Stock Analysis
+https://medium.com/@wl8380/the-power-of-differential-equations-in-stock-analysis-6ea336644358
 

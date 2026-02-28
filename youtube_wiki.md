@@ -1,5 +1,8 @@
 # YouTube Wiki
 
+Dinner for One with Freddie Frinton and May Warden
+https://www.youtube.com/watch?v=5n7VI0rC8ZA
+
 
 ## Economics
 
@@ -121,5 +124,11 @@ https://www.youtube.com/watch?v=nIbGatthiDA
 
 MATLAB Videos
 https://www.youtube.com/@MATLAB/videos
+
+
+## MKBHD
+
+When Tech Companies Lie to Us...
+https://www.youtube.com/watch?v=-njHjebtIg4
 
 

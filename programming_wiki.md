@@ -1,7 +1,6 @@
 # Programming Wiki
 
 
-
 ## Mark Seemann
 
 Archive
@@ -33,6 +32,9 @@ https://github.com/chshersh/cis194-haskell-in-cpp/tree/main
 Functional Programming in Modern C++ | Part 1/12
 https://www.youtube.com/watch?v=WoWrKpk94Jw&list=PLOJjn67NeYg_IQvEguQLkTqc4C1qwFpuo&t=546s
 
+Journal of Functional Programming: On being a PhD student of Robert Harper
+https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-being-a-phd-student-of-robert-harper/B68BCF31384084D9FDCB17A7DF1DE7A0
+
 
 ## Conda / C++ / gcc
 
@@ -62,5 +64,29 @@ https://www.freecodecamp.org/news/c-sharp-tutorial-for-beginners/
 
 C# Tutorial - Full Course for Beginners
 https://www.youtube.com/watch?v=GhQdlIFylQ8
+
+
+## Python
+
+ADTs for Python
+https://stupidpythonideas.blogspot.com/2014/08/adts-for-python.html
+
+
+## Computerphile
+
+Code vs Data (Metaprogramming) - Computerphile
+https://www.youtube.com/watch?v=dw-y3vNDRWk
+
+
+## Towards Data Science
+
+The Nice Way To Use Docker With VSCode
+https://towardsdatascience.com/the-nice-way-to-use-docker-with-vscode-f475c49aab1b/
+
+<Broken Link>
+https://towardsdatascience.com/5-creative-ways-to-use-openai-gpt-3s-insert-text-mode-7a738088f20e
+
+<Broken Link>
+https://towardsdatascience.com/how-to-access-data-from-the-twitter-api-using-tweepy-python-e2d9e4d54978
 
 
