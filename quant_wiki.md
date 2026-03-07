@@ -62,6 +62,15 @@ https://www.modval.org/home/
 FRTB SA and IMA
 https://www.modval.org/capital/
 
+FRTB Internal Models Approach for the Trading Book (IMA-TB, BCBS 352)
+https://www.modval.org/capital/ima-tb/slides/imaoverview/internalmodelsapproachintroduction/
+
+CP16/22 – Implementation of the Basel 3.1 standards: Market risk
+https://www.bankofengland.co.uk/prudential-regulation/publication/2022/november/implementation-of-the-basel-3-1-standards/market-risk
+
+Basel Committee: Minimum capital requirements for market risk
+https://www.bis.org/bcbs/publ/d457.pdf
+
 
 ## Yield Curve
 
@@ -78,7 +87,6 @@ https://blogs.cfainstitute.org/investor/2022/01/10/fama-and-french-the-five-fact
 
 ## Risk
 
-
 Quantitative Risk Management: Concepts, Techniques and Tools (Princeton Series in Finance): Concepts, Techniques and Tools - Revised Edition
 https://www.amazon.co.uk/Quantitative-Risk-Management-Techniques-Princeton/dp/0691166277
 
@@ -91,4 +99,11 @@ https://link.springer.com/book/10.1007/978-3-642-16521-4?page=2#toc
 
 The Power of Differential Equations in Stock Analysis
 https://medium.com/@wl8380/the-power-of-differential-equations-in-stock-analysis-6ea336644358
+
+
+## OS Quant 
+
+Open Source Quant
+https://osquant.com/
+
 

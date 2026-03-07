@@ -30,6 +30,13 @@ Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libr
 
 Dependency Injection links go here...
 
+Factory Design Pattern vs Dependency Injection (DI)
+https://medium.com/@nehamishra_77/factory-design-pattern-vs-dependency-injection-di-e0f8b993e66a
+
+Improving Code Flexibility with Strategy Pattern and Dependency Injection in .NET
+https://dev.to/marian_s/improving-code-flexibility-with-strategy-pattern-and-dependency-injection-in-net-33d0
+
+
 ## The Curiously Recurring Template Pattern (CRTP)
 
 * https://www.fluentcpp.com/2017/05/12/curiously-recurring-template-pattern/
@@ -61,24 +68,49 @@ https://www.youtube.com/watch?v=h8OhOnKwu7o
 
 
 
-
 ## Books
+
+Tour of C++ Third Edition
+https://www.amazon.co.uk/Tour-C-Bjarne-Stroustrup-ebook/dp/B0B8S35JWV
+
+Discovering Modern C++ - Peter Gottschling
+https://www.amazon.co.uk/Discovering-Modern-C-Depth/dp/0136677649
+
+Also see Peter Gottschling on GitHub (repo dcm3)
+https://github.com/petergottschling/dmc3
+
+Beautiful C++: 30 Core Guidelines for Writing Clean, Safe, and Fast Code - Kate Gregory
+https://www.amazon.co.uk/Beautiful-Core-Guidelines-Writing-Clean/dp/0137647840
+
+Large-Scale C++ Volume I: Process and Architecture
+https://www.amazon.co.uk/Large-Scale-Architecture-Addison-Wesley-Professional-Computing-ebook/dp/B0DFZVWRQJ
+
+Large-Scale C++ Volume II: Design and Implementation - John Lakos
+https://www.amazon.co.uk/Large-Scale-Implementation-Addison-Wesley-Professional-Computing/dp/0134694694
+
+Embracing Modern C++ Safely
+https://www.amazon.co.uk/Embracing-Modern-Safely-John-Lakos/dp/0137380356
+
+CS Books - GitHub Repo
+https://github.com/AzatAI/cs_books
+
+
+## Books - Reactive Programming
 
 UML State Machine Pattern
 
 C++ Reactive Programming
 https://www.amazon.co.uk/Reactive-Programming-concurrent-asynchronous-applications/dp/1788629779
 
-
-Hands on Reactive Programming
+Hands on Reactive Programming with **Python**
 https://www.amazon.co.uk/Hands-Reactive-Programming-Python-Event-driven/dp/1789138728
 
 Beginning C++ Game Programming
 https://www.amazon.co.uk/Beginning-Game-Programming-scratch-building/dp/1835081746
 
-
 RxCpp Library
 https://github.com/ReactiveX/RxCpp
+
 
 
 
@@ -149,5 +181,5 @@ https://www.youtube.com/watch?v=ImLFlLjSveM
 GitHub Codespaces for C++ with Nick Uhlenhuth
 https://www.youtube.com/watch?v=D8w3L-Oe8AM
 
-
-
+C++ Modules Myth Busting (using MS Visual Studio)
+https://www.youtube.com/watch?v=F-sXXKeNuio

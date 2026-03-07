@@ -3,6 +3,9 @@
 
 ## Mark Seemann
 
+Blog
+https://blog.ploeh.dk/
+
 Archive
 https://blog.ploeh.dk/archive/
 
@@ -88,5 +91,37 @@ https://towardsdatascience.com/5-creative-ways-to-use-openai-gpt-3s-insert-text-
 
 <Broken Link>
 https://towardsdatascience.com/how-to-access-data-from-the-twitter-api-using-tweepy-python-e2d9e4d54978
+
+
+## Books
+
+CS Books - GitHub Repo
+https://github.com/AzatAI/cs_books
+
+
+## Robert C. Martin (Uncle Bob)
+
+
+https://blog.cleancoder.com/
+
+
+## Martin Fowler 
+
+DSL Catelog
+https://martinfowler.com/dslCatalog
+
+Production Rule System
+https://martinfowler.com/dslCatalog/productionRule.html
+
+Domain Specific Languages PDF
+https://github.com/AzatAI/cs_books/blob/master/Domain-Specific%20Languages-e426.pdf
+
+DSL of Mathematics
+https://github.com/DSLsofMath/DSLsofMath
+
+## Design Patterns
+
+Source Making
+https://sourcemaking.com/design_patterns
 
 

@@ -13,6 +13,10 @@ L1, L2, L8 Norm
 https://en.wikipedia.org/wiki/Norm_(mathematics)
 
 
+Introduction to Vector Norms: L0, L1, L2, L-Infinity
+https://www.aiplusinfo.com/introduction-to-vector-norms-l0-l1-l2-l-infinity/
+
+
 ## 3Blue1Brown
 
 Imaginary interest rates | Ep. 5 Lockdown live math
