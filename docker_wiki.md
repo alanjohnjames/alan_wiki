@@ -23,3 +23,10 @@ https://devblogs.microsoft.com/cppblog/using-vs-code-for-c-development-with-cont
 
 Build Robust Continuous Integration With Docker and Friends
 https://realpython.com/docker-continuous-integration/#why-docker
+
+
+Dockerized build environments for C/C++ projects
+https://ddanilov.me/dockerized-cpp-build
+
+Python in a container
+https://code.visualstudio.com/docs/containers/quickstart-python

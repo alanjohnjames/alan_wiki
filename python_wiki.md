@@ -120,3 +120,8 @@
 How to improve Python packaging, or why fourteen tools are at least twelve too many
 https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/#
 
+
+## Arjan Codes
+
+Protocol Or ABC In Python - When to Use Which One?
+https://www.youtube.com/watch?v=xvb5hGLoK0A

@@ -26,6 +26,22 @@ Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libr
   https://www.quora.com/Are-If-else-statements-bad-code
 
 
+## Enum to String
+
+Evaluate a string with a switch in C++ [duplicate]
+https://stackoverflow.com/questions/16388510/evaluate-a-string-with-a-switch-in-c/16388594
+
+Compile time string hashing
+https://stackoverflow.com/questions/2111667/compile-time-string-hashing
+
+
+## isocpp.org
+
+C++ Core Guidelines
+https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rt-generic-oo
+
+
+
 ## Dependency Injection
 
 Dependency Injection links go here...
@@ -35,6 +51,9 @@ https://medium.com/@nehamishra_77/factory-design-pattern-vs-dependency-injection
 
 Improving Code Flexibility with Strategy Pattern and Dependency Injection in .NET
 https://dev.to/marian_s/improving-code-flexibility-with-strategy-pattern-and-dependency-injection-in-net-33d0
+
+
+
 
 
 ## The Curiously Recurring Template Pattern (CRTP)
@@ -69,6 +88,9 @@ https://www.youtube.com/watch?v=h8OhOnKwu7o
 
 
 ## Books
+
+Modern C++ Colleciton (leanpub)
+https://leanpub.com/b/modernccollection
 
 Tour of C++ Third Edition
 https://www.amazon.co.uk/Tour-C-Bjarne-Stroustrup-ebook/dp/B0B8S35JWV
@@ -112,6 +134,17 @@ RxCpp Library
 https://github.com/ReactiveX/RxCpp
 
 
+## Entitiy Component System
+
+COMP4300 - C++ Game Programming - Lecture 03 - Intro to C++ (2/2) - Dave Churchill
+https://www.youtube.com/watch?v=aZFXWVqgGBI
+
+
+
+## Website
+
+THE MODERNES C++ BLOG (Rainer Grimm)
+https://www.modernescpp.com
 
 
 ## CppNow
@@ -183,3 +216,10 @@ https://www.youtube.com/watch?v=D8w3L-Oe8AM
 
 C++ Modules Myth Busting (using MS Visual Studio)
 https://www.youtube.com/watch?v=F-sXXKeNuio
+
+
+## Meeting Cpp
+
+Peter Sommerlad - What Classes We Design and How - Meeting C++ 2021
+https://www.youtube.com/watch?v=Eq6yK3tg5-I
+

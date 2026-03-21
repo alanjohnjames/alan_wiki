@@ -9,19 +9,43 @@ https://blog.ploeh.dk/
 Archive
 https://blog.ploeh.dk/archive/
 
+GitHub
+https://github.com/ploeh
+
+### Domain Modelling
+
 Easy domain modelling with types
 https://blog.ploeh.dk/2016/11/28/easy-domain-modelling-with-types/
+
+
+### Monads
 
 The List monad
 https://blog.ploeh.dk/2022/04/19/the-list-monad/
 
+Should databases be viewed as monads the samy way that IO is a monad in Haskell
+https://softwareengineering.stackexchange.com/questions/313151/should-databases-be-viewed-as-monads
+
+
+### Visitor
+
+A Visitor functor
+https://blog.ploeh.dk/2018/08/13/a-visitor-functor/
 
 Visitor as a sum type
 https://blog.ploeh.dk/2018/06/25/visitor-as-a-sum-type/
 
+
+### Church Encoding
+
 Church-encoded payment types
 https://blog.ploeh.dk/2018/06/18/church-encoded-payment-types/
 
+Full binary tree catamorphism
+https://blog.ploeh.dk/2019/06/24/full-binary-tree-catamorphism/
+
+Church Encoding GitHub
+https://github.com/ploeh/ChurchEncoding
 
 
 ## Functional Programming
@@ -58,6 +82,15 @@ https://techcommunity.microsoft.com/blog/educatordeveloperblog/use-github-copilo
 
 GitHub Copilot Agent Mode: Build an iOS App in Minutes
 https://www.youtube.com/watch?v=gKEWB0vg_Cs
+
+
+## ChatGPT
+
+I asked Chat GPT to build a To-Do app — Have we finally met our replacement?
+https://blog.bitsrc.io/i-asked-chat-gpt-to-build-a-to-do-app-have-we-finally-met-our-replacement-ad347ad74c51
+
+20 Entertaining Uses of ChatGPT You Never Knew Were Possible
+https://markwschaefer.medium.com/20-entertaining-uses-of-chatgpt-you-never-knew-were-possible-3bc2644d4507
 
 
 ## C# .NET

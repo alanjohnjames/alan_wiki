@@ -1,6 +1,10 @@
 # CMake Wiki
 
 
+C++ in VS Code: Building your Code with CMake
+https://www.youtube.com/watch?v=_BWU5mWqVA4
+
+
 Somewhat old but stil worth a look 
 
 CMake Project Structure (Simplify C++)

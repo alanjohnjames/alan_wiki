@@ -5,6 +5,15 @@
 * The Collector: Know Your Weapon, Parts 1 & 2
 (Espen Gaarder Haug) http://www.hk.free.fr/Docs/Paul%20Wilmott%20-%20The%20Best%20of%20Wilmott%20Vol%202.pdf
 
+
+## Stochastic Differential Equations SDEs
+
+Predicting future stock prices using stochastic differential equations?
+https://quant.stackexchange.com/questions/55084/what-are-the-advantages-and-limitations-of-predicting-future-stock-prices-using
+
+
+[The Power of Differential Equations in Stock Analysis](https://medium.com/@wl8380/the-power-of-differential-equations-in-stock-analysis-6ea336644358)
+
 ## Volatility Models
 
 ### Smile... Skew...
@@ -95,6 +104,9 @@ Financial market data differential equation steady state analysis
 
 Statistics of Financial Markets (Springer Books)
 https://link.springer.com/book/10.1007/978-3-642-16521-4?page=2#toc
+
+ValueValue at Risk and Backtesting
+https://link.springer.com/chapter/10.1007/978-3-642-16521-4_16
 
 
 The Power of Differential Equations in Stock Analysis

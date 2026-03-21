@@ -33,6 +33,9 @@ https://www.youtube.com/watch?v=MOHOjHAJ3sU
 
 ## Extenal Display Docks
 
+DisplayLink vs. MST vs. Thunderbolt: Best Multi-Monitor Solutions Compared for Your Workspace
+https://plugable.com/blogs/news/displaylink-vs-mst-vs-thunderbolt-best-multi-monitor-solutions-compared-for-your-workspace
+
 Understanding External Display Support on Apple M1, M2, M3, M4 and M5 Chips
 https://kb.plugable.com/docking-stations-and-video/understanding-external-display-support-on-apple-m1-m2-m3-and-m4-chips
 
