@@ -16,6 +16,9 @@ https://quant.stackexchange.com/questions/55084/what-are-the-advantages-and-limi
 
 ## Volatility Models
 
+SABR Volatility Model
+https://en.wikipedia.org/wiki/SABR_volatility_model
+
 ### Smile... Skew...
 
 * Volatility Smile https://en.m.wikipedia.org/wiki/Volatility_smile 
@@ -119,3 +122,41 @@ Open Source Quant
 https://osquant.com/
 
 
+##Lech Grzelak - Financial Engineering Course
+
+Lech Grzelak - Financial Engineering Course IR and XVA
+https://github.com/LechGrzelak/FinancialEngineering_IR_xVA
+
+
+Lech Grzelak Github
+https://github.com/LechGrzelak
+
+Lech Grzelak Website
+https://compfinance.ddns.net/wordpress/
+
+Lech Grzelak YouTube Financial Engineering Lectures
+https://www.youtube.com/c/ComputationsinFinance/playlists
+
+Financial Engineering Course: Lecture 6/14, part 1/3, (Construction of Yield Curve and Multi-Curves)
+https://www.youtube.com/watch?v=zEQ_I1XWcBU
+
+Financial Engineering Course: Lecture 6/14, part 2/3, (Construction of Yield Curve and Multi-Curves)
+https://www.youtube.com/watch?v=ZdqNKjcRFXM
+
+Financial Engineering Course: Lecture 6/14, part 3/3, (Construction of Yield Curve and Multi-Curves)
+https://www.youtube.com/watch?v=9v1dC3lm6aI
+
+
+## MIT Open Courseware
+
+7. Value At Risk (VAR) Models
+https://www.youtube.com/watch?v=92WaNz9mPeY
+
+20. Option Price and Probability Duality
+https://www.youtube.com/watch?v=eG_aRPy1KVE
+
+
+## ARPM
+
+Book: Risk and Asset Allocation
+https://www.arpm.co/book/

@@ -17,6 +17,19 @@ Introduction to Vector Norms: L0, L1, L2, L-Infinity
 https://www.aiplusinfo.com/introduction-to-vector-norms-l0-l1-l2-l-infinity/
 
 
+## Probability
+
+NN Taleb - Mini Lectures in ProbabilityProbailiaty Playlist
+https://www.youtube.com/playlist?list=PLMV8UXQuOWKPAIjvnyMN2317LHF3ydvnG
+
+
+## Stochastic Calculus
+
+University of Leeds - MATH3734 Stochastic Calculus for Finance
+https://catalogue.leeds.ac.uk/Module/UG/MATH/3734/202425
+
+
+
 ## 3Blue1Brown
 
 Imaginary interest rates | Ep. 5 Lockdown live math

@@ -30,3 +30,7 @@ https://ddanilov.me/dockerized-cpp-build
 
 Python in a container
 https://code.visualstudio.com/docs/containers/quickstart-python
+
+Arjan Codes - How To Use Docker To Make Local Development A Breeze
+https://www.youtube.com/watch?v=zkMRWDQV4Tg&t=691s
+

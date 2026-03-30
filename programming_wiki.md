@@ -62,6 +62,9 @@ https://www.youtube.com/watch?v=WoWrKpk94Jw&list=PLOJjn67NeYg_IQvEguQLkTqc4C1qwF
 Journal of Functional Programming: On being a PhD student of Robert Harper
 https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-being-a-phd-student-of-robert-harper/B68BCF31384084D9FDCB17A7DF1DE7A0
 
+Object Oriented Programming vs Functional Programming
+https://www.youtube.com/watch?v=wyABTfR9UTU&t=12s
+
 
 ## Conda / C++ / gcc
 
@@ -125,6 +128,9 @@ https://towardsdatascience.com/5-creative-ways-to-use-openai-gpt-3s-insert-text-
 <Broken Link>
 https://towardsdatascience.com/how-to-access-data-from-the-twitter-api-using-tweepy-python-e2d9e4d54978
 
+A python equivalent for R markdown
+https://towardsdatascience.com/a-python-equivalent-for-r-markdown-d6fba36dc577/
+
 
 ## Books
 
@@ -158,3 +164,22 @@ Source Making
 https://sourcemaking.com/design_patterns
 
 
+## Replit
+
+https://docs.replit.com/tutorials/python/data-science-and-visualisation-with-repl-it
+
+https://docs.replit.com/programming-ide/configuring-repl
+
+https://blog.replit.com/upm
+
+
+## Google Courses
+
+Technical Writing Courses
+https://developers.google.com/tech-writing
+
+
+## John D Cook 
+
+Computing higher moments with a fold
+https://www.johndcook.com/blog/2016/06/08/computing-higher-moments-with-a-fold/

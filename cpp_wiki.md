@@ -68,6 +68,14 @@ https://dev.to/marian_s/improving-code-flexibility-with-strategy-pattern-and-dep
 
 ## C++20
 
+
+C++20 - The Complete Guide - Nicolai M. Josuttis
+http://cppstd20.com
+
+C++20 - The Complete Guide - Leanpub
+https://leanpub.com/cpp20
+
+
 Reflect: C++20 Static Reflection library
 https://github.com/qlibs/reflect
 
@@ -208,6 +216,9 @@ https://www.youtube.com/watch?v=FRkJCvHWdwQ
 How C++20 Changes the Way We Write Code - Timur Doumler - CppCon 2020
 https://www.youtube.com/watch?v=ImLFlLjSveM
 
+Branchless Programming in C++ - Fedor Pikus - CppCon 2021
+https://www.youtube.com/watch?v=g-WPhYREFjk
+
 
 ## Pure Virtual C++
 
@@ -222,4 +233,35 @@ https://www.youtube.com/watch?v=F-sXXKeNuio
 
 Peter Sommerlad - What Classes We Design and How - Meeting C++ 2021
 https://www.youtube.com/watch?v=Eq6yK3tg5-I
+
+
+## C++ Insights
+
+
+C++ Insights - Episode 24: A destructor, =default, and move operations
+https://www.youtube.com/watch?v=kc3GEznJFLs
+
+
+## Effective C++ 
+
+Scott Meyers - An Effective C++11/14 Sampler
+https://www.youtube.com/watch?v=BezbcQIuCsY
+
+Effective C++11: Content and Status
+http://scottmeyers.blogspot.com/2013/01/effective-c11-content-and-status.html
+
+
+## Boost Hana
+
+Louis Dionne - Tuple Like Trick
+https://listarchives.boost.org/Archives/boost/2014/06/214213.php
+
+Is there a name for this tuple-creation idiom?
+https://stackoverflow.com/questions/25338795/is-there-a-name-for-this-tuple-creation-idiom
+
+
+## C++14
+
+C++14 tuple continuation monad
+https://gist.github.com/Manu343726/fb57746274fffc043c2a
 

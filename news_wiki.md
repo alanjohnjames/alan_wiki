@@ -104,5 +104,17 @@ https://www.kcl.ac.uk/events/series
 https://www.kcl.ac.uk/news/kings-mathematicians-named-fellows-of-the-uks-new-leading-academy-for-mathematical-sciences
 
 
+## Energy 
+
+
+Why renewables can’t save the planet | Michael Shellenberger | TEDxDanubia
+https://www.youtube.com/watch?v=N-yALPEpV4w
+
+
+Making Safe Nuclear Power from Thorium | Thomas Jam Pedersen | TEDxCopenhagen
+https://www.youtube.com/watch?v=tHO1ebNxhVI
+
+
+
 
 

@@ -89,3 +89,13 @@ https://www.moneysavingexpert.com/mobiles/family-sim-cards-what-are-they-and-are
 
 Bundles with unlimited UK calls & texts - Fast 4G & 5G data. The ideal choice for all.
 https://www.1pmobile.com/
+
+
+## Logitech
+
+
+K375s pipe key does not work with PTB layout on Mac OS X
+https://support.logi.com/hc/en-gb/articles/360023202614-K375s-pipe-key-does-not-work-with-PTB-layout-on-Mac-OS-X
+
+
+
