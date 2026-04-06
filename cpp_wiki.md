@@ -2,6 +2,21 @@
 
 Wiki of all findings on C++ ! 
 
+## CppReference.com
+
+The Rule Of Three
+https://en.cppreference.com/w/cpp/language/rule_of_three.html
+
+## Core Guidelines
+
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-copy-virtual
+
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-zero
+
+
+
+
+
 ## Visual Studio Code
 
 * C/C++ on Visual Studio Code https://code.visualstudio.com/docs/languages/cpp
@@ -40,6 +55,18 @@ https://stackoverflow.com/questions/2111667/compile-time-string-hashing
 C++ Core Guidelines
 https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rt-generic-oo
 
+C++11 Language Extensions – Templates
+https://isocpp.org/wiki/faq/cpp11-language-templates#variadic-templates
+
+
+## Arne Mertz - Simplify C++ 
+
+Modern C++ Features – Default Initializers for Member Variables
+https://arne-mertz.de/2015/08/new-c-features-default-initializers-for-member-variables/
+
+Static Initialization Order Fiasco
+Access to private members: Safer nastiness
+http://bloglitb.blogspot.com/2011/12/access-to-private-members-safer.html
 
 
 ## Dependency Injection
@@ -53,6 +80,11 @@ Improving Code Flexibility with Strategy Pattern and Dependency Injection in .NE
 https://dev.to/marian_s/improving-code-flexibility-with-strategy-pattern-and-dependency-injection-in-net-33d0
 
 
+A Functional Alternative to Dependency Injection in C++
+https://accu.org/journals/overload/25/140/pamudurthy_2403/
+
+GitHub - spamudurthy1520/FunctionalCPP
+https://github.com/spamudurthy1520/FunctionalCPP/blob/master/source/RuntimeBoundMethod.hpp
 
 
 
@@ -66,8 +98,8 @@ https://dev.to/marian_s/improving-code-flexibility-with-strategy-pattern-and-dep
 * Simple, Extensible C++ Pattern Matching Library (Header only)
   https://github.com/jbandela/simple_match
 
-## C++20
 
+## C++20
 
 C++20 - The Complete Guide - Nicolai M. Josuttis
 http://cppstd20.com
@@ -85,6 +117,8 @@ https://www.rttr.org/
 Magic Enum (Compile-Time Reflection for Enums)
 https://github.com/Neargye/magic_enum
 
+++namedtuple: Python style Named Tuples in C++20 - Kris Jusiak - Meeting C++ 2021
+https://www.youtube.com/watch?v=hlBEHxWkSaI
 
 **Boost Hana** - Reflection can be added to user-defined types very easily. This allows iterating over the members of a user-defined type, querying members with a programmatic interface and much more, without any runtime overhead
 https://www.boost.org/doc/libs/latest/libs/hana/doc/html/index.html
@@ -121,11 +155,14 @@ https://www.amazon.co.uk/Large-Scale-Implementation-Addison-Wesley-Professional-
 Embracing Modern C++ Safely
 https://www.amazon.co.uk/Embracing-Modern-Safely-John-Lakos/dp/0137380356
 
+Embracing Modern C++ Safely
+https://vittorioromeo.info/emcpps.html
+
 CS Books - GitHub Repo
 https://github.com/AzatAI/cs_books
 
 
-## Books - Reactive Programming
+## Reactive Programming Books
 
 UML State Machine Pattern
 
@@ -151,8 +188,12 @@ https://www.youtube.com/watch?v=aZFXWVqgGBI
 
 ## Website
 
-THE MODERNES C++ BLOG (Rainer Grimm)
+The Modernes C++ Blog (Rainer Grimm)
 https://www.modernescpp.com
+
+C++ Core Guidelines: Type Erasure with Templates
+https://www.modernescpp.com/index.php/c-core-guidelines-type-erasure-with-templates/
+
 
 
 ## CppNow
@@ -219,6 +260,12 @@ https://www.youtube.com/watch?v=ImLFlLjSveM
 Branchless Programming in C++ - Fedor Pikus - CppCon 2021
 https://www.youtube.com/watch?v=g-WPhYREFjk
 
+Nesting "If Statements" Is Bad. Do This Instead
+https://www.youtube.com/watch?v=ZzwWWut_ibU
+
+Law of Demeter: A Practical Guide to Loose Coupling - Kris Jusiak - CppCon 2021
+https://www.youtube.com/watch?v=QZkVpZlbM4U
+
 
 ## Pure Virtual C++
 
@@ -259,9 +306,135 @@ https://listarchives.boost.org/Archives/boost/2014/06/214213.php
 Is there a name for this tuple-creation idiom?
 https://stackoverflow.com/questions/25338795/is-there-a-name-for-this-tuple-creation-idiom
 
+**Boost Hana** - Reflection can be added to user-defined types very easily. This allows iterating over the members of a user-defined type, querying members with a programmatic interface and much more, without any runtime overhead
+https://www.boost.org/doc/libs/latest/libs/hana/doc/html/index.html
+
+C++Now 2017: Louis Dionne "Fun with Boost.Hana"
+https://www.youtube.com/watch?v=emHnx_ZG0qc
+
+Boost Hana Real World Example
+https://www.boost.org/doc/libs/1_65_0/libs/hana/doc/html/index.html#tutorial-quickstart-any
+
+Boost Hana - Basic Associative Container
+https://www.boost.org/doc/libs/1_65_0/libs/hana/doc/html/structboost_1_1hana_1_1map.html
+
+
+## Property Tree
+
+Chapter 30. Boost.PropertyTree
+https://www.boost.org/doc/libs/1_79_0/doc/html/property_tree.html
+
+Five Minute Tutorial
+https://www.boost.org/doc/libs/1_79_0/doc/html/property_tree/tutorial.html
+
+How to Access Data in a Property Tree
+https://www.boost.org/doc/libs/1_65_1/doc/html/property_tree/accessing.html
+
+How to use boost::property_tree to load and write JSON
+https://www.cochoy.fr/boost-property-tree/
+
+How to use boost::property_tree to load and write JSON
+https://www.cochoy.fr/boost-property-tree/
+
+
+## Boost URL
+
+Boost.URL
+https://github.com/boostorg/url
+
+cpp-netlib
+https://cpp-netlib.org/0.10.1/contents.html
+
+
+## Boost HOF
+
+HOF - Higher Order Functions
+https://www.boost.org/doc/libs/master/libs/hof/doc/html/doc/src/index.html
+
+Higher-order functions - Getting Started
+https://www.boost.org/doc/libs/master/libs/hof/doc/html/doc/src/gettingstarted.html
+
+Lifting Functions
+https://www.boost.org/doc/libs/master/libs/hof/doc/html/doc/src/gettingstarted.html#lifting-functions
+
+
+## Boost Fusion
+
+Introduction
+https://www.boost.org/doc/libs/1_72_0/libs/fusion/doc/html/fusion/introduction.html
+
+Table of Contents
+https://www.boost.org/doc/libs/1_72_0/libs/fusion/doc/html/index.html
+
+Quick Start
+https://www.boost.org/doc/libs/1_72_0/libs/fusion/doc/html/fusion/quick_start.html
+
+Quick Start - Associative Tuples
+https://www.boost.org/doc/libs/1_77_0/libs/fusion/doc/html/fusion/quick_start.html#fusion.quick_start.associative_tuples
+
 
 ## C++14
 
 C++14 tuple continuation monad
 https://gist.github.com/Manu343726/fb57746274fffc043c2a
+
+
+## Command-Line Interfaces
+
+docopt.cpp: A C++11 Port
+https://github.com/docopt/docopt.cpp
+
+
+## Jason Turner
+
+"C++ function "pipeline" Jason Turner" - For some reason I was searching for this... 
+
+C++ Best Practices - 45ish Simple Rules with Specific Action Items for Better C++
+https://leanpub.com/cppbestpractices
+
+C++ Weekly - Ep 91 - Using Lippincott Functions
+https://www.youtube.com/watch?v=-amJL3AyADI
+
+C++ Weekly - Ep 295 - API Design: Principle of Least Surprise
+https://www.youtube.com/watch?v=Qs4nje3KaFw
+
+
+## C++ On a Friday
+
+C++ On a Friday
+https://blog.knatten.org
+
+https://blog.knatten.org/2012/11/02/efficient-pure-functional-programming-in-c-using-move-semantics/
+Efficient Pure Functional Programming in C++ Using Move Semantics
+
+
+## SFINAE
+
+An introduction to C++'s SFINAE concept: compile-time introspection of a class member
+http://jguegant.github.io/blogs/tech/sfinae-introduction.html
+
+Notes on C++ SFINAE, Modern C++ and C++20 Concepts
+https://www.cppstories.com/2016/02/notes-on-c-sfinae/
+
+
+## Variadic Parameter Pack
+
+How to Pass a Variadic Pack as the First Argument of a Function in C++
+https://www.cppstories.com/2020/09/variadic-pack-first.html/
+
+How can I have multiple parameter packs in a variadic template?
+https://stackoverflow.com/questions/9831501/how-can-i-have-multiple-parameter-packs-in-a-variadic-template
+
+std::optional
+https://www.cppstories.com/2018/05/using-optional/
+
+
+## QT
+
+Structured Bindings with Qt SQL
+https://www.kdab.com/structured-bindings-with-qt-sql/
+
+
+
+
 

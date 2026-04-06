@@ -33,3 +33,15 @@
   Building Interactive Dashboards with Jupyter
 
   https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/
+
+
+## Dashboards
+
+Background: Shiny and HTML
+https://rstudio.github.io/shinydashboard/structure.html
+
+Develop Data Visualization Interfaces in Python With Dash
+https://realpython.com/python-dash/#deploy-your-dash-application-to-heroku
+
+Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter
+https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila

@@ -33,6 +33,8 @@ https://www.apple.com/feedback/macos/
 Edx.org
 https://www.edx.org
 
+Statistical Learning in R on EdX.org
+https://learning.edx.org/course/course-v1:StanfordOnline+STATSX0001+1T2022/home
 
 
 # Visual Studio Code (VS Code)
@@ -125,11 +127,14 @@ https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html
 
    [![Image alt_text goes here](https://img.youtube.com/vi/eVChXmNjV7o/0.jpg)](https://www.youtube.com/embed/eVChXmNjV7o)
 
-* **Functional C++**
+## Functional C++
 
-   Safari Books Online Video
+Safari Books Online Video
+https://www.safaribooksonline.com/library/view/modern-c-design/9781491978719/video298486.html
 
-   https://www.safaribooksonline.com/library/view/modern-c-design/9781491978719/video298486.html
+Efficient Pure Functional Programming in C++ Using Move Semantics
+https://blog.knatten.org/2012/11/02/efficient-pure-functional-programming-in-c-using-move-semantics/
+
 
 ### Algebraic Data Types
 
@@ -152,6 +157,18 @@ Best thing ever !!!
 * Five tips I wish I knew when I started with Typescript 
 
   https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8609029db
+
+TypeScript for Functional Programmers
+https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html
+
+TypeScript for JavaScript Programmers
+https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+
+The TypeScript Handbook
+https://www.typescriptlang.org/docs/handbook/intro.html
+
+
+
 
 ## YouTube
 
@@ -202,6 +219,12 @@ Bill Benter did the impossible: He wrote an algorithm that couldn’t lose at th
 Close to a billion dollars later, he tells his story for the first time.
 
 https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code
+
+How Science is Taking the Luck out of Gambling - with Adam Kucharski (Royal Institution Lectures)
+https://www.youtube.com/watch?v=658xlubwnDc
+
+Why Have We Not Found Any Aliens? - with Keith Cooper (Royal Institution Lectures)
+https://www.youtube.com/watch?v=BV_DkQCNfu4
 
 
 ## Julius Teechnoloogies 

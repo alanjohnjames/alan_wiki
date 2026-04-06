@@ -146,6 +146,19 @@ https://www.youtube.com/watch?v=ZdqNKjcRFXM
 Financial Engineering Course: Lecture 6/14, part 3/3, (Construction of Yield Curve and Multi-Curves)
 https://www.youtube.com/watch?v=9v1dC3lm6aI
 
+Multi-curve Construction
+Definition, Calibration, Implementation and Application of Rate Curves
+https://link.springer.com/chapter/10.1007/978-3-319-33446-2_11
+
+Curve Calibration Methodology
+http://www.finmath.net/topics/curvecalibration/
+
+Library - finmath lib
+http://www.finmath.net
+
+About finmath lib
+https://www.finmath.net/finmath-lib/
+
 
 ## MIT Open Courseware
 
@@ -160,3 +173,22 @@ https://www.youtube.com/watch?v=eG_aRPy1KVE
 
 Book: Risk and Asset Allocation
 https://www.arpm.co/book/
+
+
+## QuantEcon
+
+Intermediate Quantitative Economics with Python
+https://python.quantecon.org/intro.html
+
+
+## Peter Carr Seminar Series
+
+Peter Carr Seminar Series
+https://engineering.nyu.edu/academics/departments/finance-and-risk-engineering/upcoming-events
+
+## QuantPie
+
+
+Algebraic Manipulations in Python's Sympy
+https://www.youtube.com/watch?v=7w6MwFmZGPI&list=PLS3zAvd8OxewAal5pNbbLeRR4gMy8ip7N&index=72
+

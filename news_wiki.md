@@ -53,6 +53,18 @@ https://www.youtube.com/watch?v=M7hOpT0lPGI
 Zero Hedge
 https://www.zerohedge.com/
 
+Connecting Past, Present &Future|Virtual Family Office | Olivia Cooper | TEDxUniversityofStrathclyde
+https://www.youtube.com/watch?v=H3P5NzXCmQg
+
+Property Data Investing
+https://propertydata.co.uk/login
+
+Property Data Investing API 
+https://propertydata.co.uk/api/documentation/prices
+
+How to Scrape Rightmove, Zoopla or OnTheMarket using PropertyData
+https://www.youtube.com/watch?v=8j4fQyzyZdM
+
 
 ## One Family CTF
 
@@ -106,15 +118,12 @@ https://www.kcl.ac.uk/news/kings-mathematicians-named-fellows-of-the-uks-new-lea
 
 ## Energy 
 
-
 Why renewables can’t save the planet | Michael Shellenberger | TEDxDanubia
 https://www.youtube.com/watch?v=N-yALPEpV4w
-
 
 Making Safe Nuclear Power from Thorium | Thomas Jam Pedersen | TEDxCopenhagen
 https://www.youtube.com/watch?v=tHO1ebNxhVI
 
-
-
-
+Spitfire Experience Days near Brentwood
+https://www.experiencedaypros.co.uk/spitfire-experience-brentwood.html
 

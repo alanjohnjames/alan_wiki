@@ -1,5 +1,7 @@
-
 # Math
+
+What use is mental math today?
+https://www.johndcook.com/blog/2022/02/17/mental-math-2022/
 
 
 ## Linear Algebra
@@ -72,10 +74,33 @@ https://www.youtube.com/watch?v=O4ndIDcDSGc
 
 
 
-## Quanta Magaxien
+## Quanta Magazie
 
 Why e, the Transcendental Math Constant, Is Just the Best
 https://www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/
 
 
+## The Royal Statistical Society 
 
+Introduction to Bayesian Statistics - Virtual Classroom Public Courses
+https://rss.org.uk/training-events/training/public-courses/introduction-to-statistics/introduction-to-bayesian-statistics/introduction-to-bayesian-statistics-virtual-classr/#fulleventinfo
+
+
+## Statistics
+
+How to match distributions in statistics...
+
+Null Hypothesis and the P-Value
+https://towardsdatascience.com/null-hypothesis-and-the-p-value-fdc129db6502/
+
+Null hypothesis - Wikipedia
+https://en.wikipedia.org/wiki/Null_hypothesis
+
+Cross Validation - Wikipedia
+https://en.wikipedia.org/wiki/Cross-validation_(statistics)
+
+Mahalanobis distance
+https://en.wikipedia.org/wiki/Mahalanobis_distance
+
+Standard Score
+https://en.wikipedia.org/wiki/Standard_score

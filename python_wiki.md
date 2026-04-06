@@ -4,6 +4,11 @@
 
   https://stackoverflow.com/questions/27882261/mkdocs-and-mathjax
 
+# Args
+
+Python class design: explicit keyword arguments vs. **kwargs vs. @property
+https://stackoverflow.com/questions/30882317/python-class-design-explicit-keyword-arguments-vs-kwargs-vs-property
+
 
 # Dictionary
 
@@ -125,3 +130,24 @@ https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/#
 
 Protocol Or ABC In Python - When to Use Which One?
 https://www.youtube.com/watch?v=xvb5hGLoK0A
+
+Composition Is Better Than Inheritance in Python
+https://www.youtube.com/watch?v=0mcP8ZpUR38
+
+Observer Pattern Tutorial: I NEVER Knew Events Were THIS Powerful
+https://www.youtube.com/watch?v=oNalXg67XEE
+
+GitHub Repos
+https://github.com/orgs/ArjanCodes/repositories
+
+This repository contains the code examples used in my Write Better Python Code series published on YouTube
+https://github.com/arjancodes/betterpython
+
+Write Better Python Code Series
+https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N
+
+
+## Full Stack Python 
+
+Full Stack Python - Learn to Build, Deploy and Operate Python Applications
+https://www.fullstackpython.com

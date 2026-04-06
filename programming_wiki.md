@@ -12,9 +12,7 @@ https://blog.ploeh.dk/archive/
 GitHub
 https://github.com/ploeh
 
-### Domain Modelling
-
-Easy domain modelling with types
+Easy Domain Modelling with Types
 https://blog.ploeh.dk/2016/11/28/easy-domain-modelling-with-types/
 
 
@@ -64,6 +62,12 @@ https://www.cambridge.org/core/journals/journal-of-functional-programming/articl
 
 Object Oriented Programming vs Functional Programming
 https://www.youtube.com/watch?v=wyABTfR9UTU&t=12s
+
+Past and Present of Haskell: Interview with Simon Peyton Jones
+https://serokell.io/blog/past-and-present-of-haskell
+
+Leran Haskell in One Video
+https://www.youtube.com/watch?v=02_H3LjqMr8
 
 
 ## Conda / C++ / gcc
@@ -131,16 +135,24 @@ https://towardsdatascience.com/how-to-access-data-from-the-twitter-api-using-twe
 A python equivalent for R markdown
 https://towardsdatascience.com/a-python-equivalent-for-r-markdown-d6fba36dc577/
 
+MARP - Markdown Presentation Ecosystem
+https://marp.app
+
+Re-creation of Marp website for the unified docs
+https://marp.app/blog/re-creation-of-marp-website
+
 
 ## Books
 
 CS Books - GitHub Repo
 https://github.com/AzatAI/cs_books
 
+The Flywheel Effect
+https://itrevolution.com/articles/exclusive-excerpt-from-the-flywheel-effect/
 
 ## Robert C. Martin (Uncle Bob)
 
-
+Clean Coder
 https://blog.cleancoder.com/
 
 
@@ -183,3 +195,25 @@ https://developers.google.com/tech-writing
 
 Computing higher moments with a fold
 https://www.johndcook.com/blog/2016/06/08/computing-higher-moments-with-a-fold/
+
+
+## Visual Studio
+
+How Visual Studio Became Unusable to Me
+https://ibob.bg/blog/2023/01/05/how-vs-became-unusuable-to-me/
+
+
+## Careers
+
+Are you using Coding Interviews for Senior Software Developers? Do this instead...
+https://medium.com/geekculture/are-you-using-coding-interviews-for-senior-software-developers-6bae09ed288c
+
+How to Start a Business with Nothing
+https://medium.com/geekculture/how-to-start-a-business-with-nothing-17d42af935ec
+
+Browse Functional Programming Jobs
+https://functional.works-hub.com
+
+Create a resume website in your browser and VSCode
+https://www.youtube.com/watch?v=M2IrPFMFwx8
+
