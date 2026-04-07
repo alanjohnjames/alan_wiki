@@ -84,17 +84,19 @@ outputs...
 
 ## Machine Learning
 
-* In-depth introduction to machine learning in 15 hours of expert videos
+In-depth introduction to machine learning in 15 hours of expert videos
 
-  R-bloggers
-  
-  https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+R-bloggers
+https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
-  Data School
-  
-  http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/ 
-  http://www.dataschool.io/tag/popular/
-  
+Data School
+http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/ 
+http://www.dataschool.io/tag/popular/
+
+AlphaGo - The Movie | Full award-winning documentary
+https://www.youtube.com/watch?v=WXuK6gekU1Y
+
+
 ## Computer Science
 
 ### (Avoidance of) Object-Oriented Programming

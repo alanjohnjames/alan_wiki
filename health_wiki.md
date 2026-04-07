@@ -29,4 +29,10 @@ https://www.matthewismith.com/mftk-masterclass-opt-org
 Matthew Smith YouTube Channel
 https://www.youtube.com/channel/UCPAvBGTExzXXeu1sFDjRxzw
 
+How We Got the Science of Weight Loss Wrong - with Giles Yeo
+https://www.youtube.com/watch?v=GQJ0Z0DRumg
+
+Why Calories Don't Count: How we got the science of weight loss wrong
+https://www.amazon.co.uk/Why-Calories-Dont-Count-science/dp/140919972X/ref=tmm_pap_swatch_0?tag=rionline-21&_encoding=UTF8&qid=1618936383&sr=8-1&geniuslink=true
+
 

@@ -194,6 +194,8 @@ https://www.modernescpp.com
 C++ Core Guidelines: Type Erasure with Templates
 https://www.modernescpp.com/index.php/c-core-guidelines-type-erasure-with-templates/
 
+Rainer Grimm - C++20 - the hidden pearls - Meeting C++ 2021
+https://www.youtube.com/watch?v=KKi6-T8xuX4
 
 
 ## CppNow
